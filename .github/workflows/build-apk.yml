@@ -3,10 +3,6 @@ name: Build APK
 on:
   push:
     branches: [ main, master ]
-    paths:
-      - 'main.py'
-      - 'buildozer.spec'
-      - 'assets/**'
   workflow_dispatch:
 
 jobs:
@@ -17,16 +13,43 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Build with Buildozer
-        uses: ArtemSBulgakov/buildozer-action@v1
-        id: buildozer
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
         with:
-          workdir: .
-          buildozer_version: stable
+          distribution: temurin
+          java-version: 17
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git zip unzip python3-pip autoconf libtool pkg-config zlib1g-dev libncurses5-dev libncursesw5-dev cmake libffi-dev libssl-dev
+
+      - name: Accept Android SDK licenses
+        run: |
+          mkdir -p "$HOME/.buildozer/android/platform/android-sdk/licenses"
+          echo "24333f8a63b6825ea9c5514f83c2829b004d1fee" > "$HOME/.buildozer/android/platform/android-sdk/licenses/android-sdk-license"
+          echo "8933bad161af4178b1185d1a37fbf41ea5269c55" >> "$HOME/.buildozer/android/platform/android-sdk/licenses/android-sdk-license"
+          echo "d56f5187479451eabf01fb78af6dfcb131a6481e" >> "$HOME/.buildozer/android/platform/android-sdk/licenses/android-sdk-license"
+
+      - name: Install Android sdkmanager (into buildozer expected path)
+        run: |
+          cd /tmp
+          curl -sSLO https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
+          unzip -q commandlinetools-linux-11076708_latest.zip -d cmdline-tools-tmp
+          mkdir -p "$HOME/.buildozer/android/platform/android-sdk/tools"
+          cp -r cmdline-tools-tmp/cmdline-tools/* "$HOME/.buildozer/android/platform/android-sdk/tools/"
+          rm -rf cmdline-tools-tmp commandlinetools-linux-11076708_latest.zip
+          ls "$HOME/.buildozer/android/platform/android-sdk/tools/bin/sdkmanager"
+
+      - name: Install buildozer
+        run: pip install buildozer
+
+      - name: Build APK
+        run: buildozer -v android debug
 
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: ahsignal-apk
-          path: ${{ steps.buildozer.outputs.filename }}
+          path: bin/*.apk
           retention-days: 14
