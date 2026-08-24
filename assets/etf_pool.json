@@ -1,0 +1,6632 @@
+[
+  {
+    "code": "159119",
+    "name": "159119",
+    "market": "sh",
+    "track": "159119",
+    "data_days": 179,
+    "last_amount": 6496905,
+    "data_ok": true,
+    "sector": "159119"
+  },
+  {
+    "code": "159136",
+    "name": "159136",
+    "market": "sh",
+    "track": "159136",
+    "data_days": 149,
+    "last_amount": 1517490,
+    "data_ok": true,
+    "sector": "159136"
+  },
+  {
+    "code": "159215",
+    "name": "159215",
+    "market": "sh",
+    "track": "159215",
+    "data_days": 327,
+    "last_amount": 11336702,
+    "data_ok": true,
+    "sector": "159215"
+  },
+  {
+    "code": "159240",
+    "name": "159240",
+    "market": "sh",
+    "track": "159240",
+    "data_days": 279,
+    "last_amount": 1629611,
+    "data_ok": true,
+    "sector": "159240"
+  },
+  {
+    "code": "159249",
+    "name": "159249",
+    "market": "sh",
+    "track": "159249",
+    "data_days": 269,
+    "last_amount": 15660796,
+    "data_ok": true,
+    "sector": "159249"
+  },
+  {
+    "code": "159339",
+    "name": "159339",
+    "market": "sh",
+    "track": "159339",
+    "data_days": 443,
+    "last_amount": 62656540,
+    "data_ok": true,
+    "sector": "159339"
+  },
+  {
+    "code": "159351",
+    "name": "159351",
+    "market": "sh",
+    "track": "159351",
+    "data_days": 443,
+    "last_amount": 462320160,
+    "data_ok": true,
+    "sector": "159351"
+  },
+  {
+    "code": "159352",
+    "name": "159352",
+    "market": "sh",
+    "track": "159352",
+    "data_days": 443,
+    "last_amount": 3276335104,
+    "data_ok": true,
+    "sector": "159352"
+  },
+  {
+    "code": "159356",
+    "name": "159356",
+    "market": "sh",
+    "track": "159356",
+    "data_days": 405,
+    "last_amount": 70683592,
+    "data_ok": true,
+    "sector": "159356"
+  },
+  {
+    "code": "159357",
+    "name": "159357",
+    "market": "sh",
+    "track": "159357",
+    "data_days": 411,
+    "last_amount": 24496374,
+    "data_ok": true,
+    "sector": "159357"
+  },
+  {
+    "code": "159359",
+    "name": "159359",
+    "market": "sh",
+    "track": "159359",
+    "data_days": 409,
+    "last_amount": 37717408,
+    "data_ok": true,
+    "sector": "159359"
+  },
+  {
+    "code": "159360",
+    "name": "159360",
+    "market": "sh",
+    "track": "159360",
+    "data_days": 411,
+    "last_amount": 71621456,
+    "data_ok": true,
+    "sector": "159360"
+  },
+  {
+    "code": "159361",
+    "name": "159361",
+    "market": "sh",
+    "track": "159361",
+    "data_days": 418,
+    "last_amount": 1435698304,
+    "data_ok": true,
+    "sector": "159361"
+  },
+  {
+    "code": "159362",
+    "name": "159362",
+    "market": "sh",
+    "track": "159362",
+    "data_days": 409,
+    "last_amount": 21702732,
+    "data_ok": true,
+    "sector": "159362"
+  },
+  {
+    "code": "159376",
+    "name": "159376",
+    "market": "sh",
+    "track": "159376",
+    "data_days": 380,
+    "last_amount": 7404183,
+    "data_ok": true,
+    "sector": "159376"
+  },
+  {
+    "code": "159379",
+    "name": "159379",
+    "market": "sh",
+    "track": "159379",
+    "data_days": 372,
+    "last_amount": 4465398,
+    "data_ok": true,
+    "sector": "159379"
+  },
+  {
+    "code": "159380",
+    "name": "159380",
+    "market": "sh",
+    "track": "159380",
+    "data_days": 383,
+    "last_amount": 15477753,
+    "data_ok": true,
+    "sector": "159380"
+  },
+  {
+    "code": "159386",
+    "name": "159386",
+    "market": "sh",
+    "track": "159386",
+    "data_days": 365,
+    "last_amount": 15239512,
+    "data_ok": true,
+    "sector": "159386"
+  },
+  {
+    "code": "159591",
+    "name": "159591",
+    "market": "sh",
+    "track": "159591",
+    "data_days": 581,
+    "last_amount": 40987360,
+    "data_ok": true,
+    "sector": "159591"
+  },
+  {
+    "code": "159592",
+    "name": "159592",
+    "market": "sh",
+    "track": "159592",
+    "data_days": 581,
+    "last_amount": 23700594,
+    "data_ok": true,
+    "sector": "159592"
+  },
+  {
+    "code": "159596",
+    "name": "159596",
+    "market": "sh",
+    "track": "159596",
+    "data_days": 581,
+    "last_amount": 19349636,
+    "data_ok": true,
+    "sector": "159596"
+  },
+  {
+    "code": "159601",
+    "name": "159601",
+    "market": "sh",
+    "track": "159601",
+    "data_days": 1153,
+    "last_amount": 53383008,
+    "data_ok": true,
+    "sector": "159601"
+  },
+  {
+    "code": "159621",
+    "name": "159621",
+    "market": "sh",
+    "track": "159621",
+    "data_days": 943,
+    "last_amount": 3548281,
+    "data_ok": true,
+    "sector": "159621"
+  },
+  {
+    "code": "159627",
+    "name": "159627",
+    "market": "sh",
+    "track": "159627",
+    "data_days": 892,
+    "last_amount": 7865980,
+    "data_ok": true,
+    "sector": "159627"
+  },
+  {
+    "code": "159630",
+    "name": "159630",
+    "market": "sh",
+    "track": "159630",
+    "data_days": 914,
+    "last_amount": 773623,
+    "data_ok": true,
+    "sector": "159630"
+  },
+  {
+    "code": "159631",
+    "name": "159631",
+    "market": "sh",
+    "track": "159631",
+    "data_days": 956,
+    "last_amount": 1953141,
+    "data_ok": true,
+    "sector": "159631"
+  },
+  {
+    "code": "159661",
+    "name": "159661",
+    "market": "sh",
+    "track": "159661",
+    "data_days": 649,
+    "last_amount": 6758575,
+    "data_ok": true,
+    "sector": "159661"
+  },
+  {
+    "code": "159678",
+    "name": "159678",
+    "market": "sh",
+    "track": "159678",
+    "data_days": 837,
+    "last_amount": 5295612,
+    "data_ok": true,
+    "sector": "159678"
+  },
+  {
+    "code": "159685",
+    "name": "159685",
+    "market": "sh",
+    "track": "159685",
+    "data_days": 810,
+    "last_amount": 1253165,
+    "data_ok": true,
+    "sector": "159685"
+  },
+  {
+    "code": "159686",
+    "name": "159686",
+    "market": "sh",
+    "track": "159686",
+    "data_days": 740,
+    "last_amount": 16281455,
+    "data_ok": true,
+    "sector": "159686"
+  },
+  {
+    "code": "159717",
+    "name": "159717",
+    "market": "sh",
+    "track": "159717",
+    "data_days": 1174,
+    "last_amount": 6591,
+    "data_ok": true,
+    "sector": "159717"
+  },
+  {
+    "code": "159786",
+    "name": "159786",
+    "market": "sh",
+    "track": "159786",
+    "data_days": 1212,
+    "last_amount": 16558563,
+    "data_ok": true,
+    "sector": "159786"
+  },
+  {
+    "code": "159791",
+    "name": "159791",
+    "market": "sh",
+    "track": "159791",
+    "data_days": 1069,
+    "last_amount": 5868494,
+    "data_ok": true,
+    "sector": "159791"
+  },
+  {
+    "code": "159811",
+    "name": "159811",
+    "market": "sh",
+    "track": "159811",
+    "data_days": 1527,
+    "last_amount": 35185992,
+    "data_ok": true,
+    "sector": "159811"
+  },
+  {
+    "code": "159909",
+    "name": "159909",
+    "market": "sh",
+    "track": "159909",
+    "data_days": 3565,
+    "last_amount": 9241660,
+    "data_ok": true,
+    "sector": "159909"
+  },
+  {
+    "code": "563900",
+    "name": "300自由现金流ETF摩根",
+    "market": "sh",
+    "track": "300自由现金流",
+    "data_days": 308,
+    "last_amount": 22950664,
+    "data_ok": true,
+    "sector": "300自由现金流"
+  },
+  {
+    "code": "515590",
+    "name": "500等权ETF前海开源",
+    "market": "sh",
+    "track": "500等权",
+    "data_days": 1587,
+    "last_amount": 863674,
+    "data_ok": true,
+    "sector": "500等权"
+  },
+  {
+    "code": "560500",
+    "name": "500质量成长ETF鹏扬",
+    "market": "sh",
+    "track": "500质量成长鹏扬",
+    "data_days": 1194,
+    "last_amount": 1954518,
+    "data_ok": true,
+    "sector": "500质量成长鹏扬"
+  },
+  {
+    "code": "512020",
+    "name": "512020",
+    "market": "sh",
+    "track": "512020",
+    "data_days": 409,
+    "last_amount": 78166872,
+    "data_ok": true,
+    "sector": "512020"
+  },
+  {
+    "code": "512050",
+    "name": "512050",
+    "market": "sh",
+    "track": "512050",
+    "data_days": 420,
+    "last_amount": 1533595776,
+    "data_ok": true,
+    "sector": "512050"
+  },
+  {
+    "code": "512060",
+    "name": "512060",
+    "market": "sh",
+    "track": "512060",
+    "data_days": 257,
+    "last_amount": 574052,
+    "data_ok": true,
+    "sector": "512060"
+  },
+  {
+    "code": "512080",
+    "name": "512080",
+    "market": "sh",
+    "track": "512080",
+    "data_days": 374,
+    "last_amount": 31146148,
+    "data_ok": true,
+    "sector": "512080"
+  },
+  {
+    "code": "512090",
+    "name": "512090",
+    "market": "sh",
+    "track": "512090",
+    "data_days": 1987,
+    "last_amount": 118463800,
+    "data_ok": true,
+    "sector": "512090"
+  },
+  {
+    "code": "512220",
+    "name": "512220",
+    "market": "sh",
+    "track": "512220",
+    "data_days": 2909,
+    "last_amount": 38108512,
+    "data_ok": true,
+    "sector": "512220"
+  },
+  {
+    "code": "512240",
+    "name": "512240",
+    "market": "sh",
+    "track": "512240",
+    "data_days": 327,
+    "last_amount": 2156291,
+    "data_ok": true,
+    "sector": "512240"
+  },
+  {
+    "code": "512250",
+    "name": "512250",
+    "market": "sh",
+    "track": "512250",
+    "data_days": 322,
+    "last_amount": 1699188,
+    "data_ok": true,
+    "sector": "512250"
+  },
+  {
+    "code": "512370",
+    "name": "512370",
+    "market": "sh",
+    "track": "512370",
+    "data_days": 236,
+    "last_amount": 6487778,
+    "data_ok": true,
+    "sector": "512370"
+  },
+  {
+    "code": "512380",
+    "name": "512380",
+    "market": "sh",
+    "track": "512380",
+    "data_days": 1765,
+    "last_amount": 1206018,
+    "data_ok": true,
+    "sector": "512380"
+  },
+  {
+    "code": "512910",
+    "name": "512910",
+    "market": "sh",
+    "track": "512910",
+    "data_days": 1725,
+    "last_amount": 9076769,
+    "data_ok": true,
+    "sector": "512910"
+  },
+  {
+    "code": "512990",
+    "name": "512990",
+    "market": "sh",
+    "track": "512990",
+    "data_days": 2766,
+    "last_amount": 5196661,
+    "data_ok": true,
+    "sector": "512990"
+  },
+  {
+    "code": "515160",
+    "name": "515160",
+    "market": "sh",
+    "track": "515160",
+    "data_days": 1563,
+    "last_amount": 472560,
+    "data_ok": true,
+    "sector": "515160"
+  },
+  {
+    "code": "560030",
+    "name": "560030",
+    "market": "sh",
+    "track": "560030",
+    "data_days": 748,
+    "last_amount": 166324,
+    "data_ok": true,
+    "sector": "560030"
+  },
+  {
+    "code": "560380",
+    "name": "560380",
+    "market": "sh",
+    "track": "560380",
+    "data_days": 390,
+    "last_amount": 10548562,
+    "data_ok": true,
+    "sector": "560380"
+  },
+  {
+    "code": "560610",
+    "name": "560610",
+    "market": "sh",
+    "track": "560610",
+    "data_days": 443,
+    "last_amount": 97367568,
+    "data_ok": true,
+    "sector": "560610"
+  },
+  {
+    "code": "560750",
+    "name": "560750",
+    "market": "sh",
+    "track": "560750",
+    "data_days": 367,
+    "last_amount": 4582837,
+    "data_ok": true,
+    "sector": "560750"
+  },
+  {
+    "code": "561090",
+    "name": "561090",
+    "market": "sh",
+    "track": "561090",
+    "data_days": 269,
+    "last_amount": 6190620,
+    "data_ok": true,
+    "sector": "561090"
+  },
+  {
+    "code": "561180",
+    "name": "561180",
+    "market": "sh",
+    "track": "561180",
+    "data_days": 901,
+    "last_amount": 576848,
+    "data_ok": true,
+    "sector": "561180"
+  },
+  {
+    "code": "561770",
+    "name": "561770",
+    "market": "sh",
+    "track": "561770",
+    "data_days": 275,
+    "last_amount": 671887,
+    "data_ok": true,
+    "sector": "561770"
+  },
+  {
+    "code": "561780",
+    "name": "561780",
+    "market": "sh",
+    "track": "561780",
+    "data_days": 665,
+    "last_amount": 2646847,
+    "data_ok": true,
+    "sector": "561780"
+  },
+  {
+    "code": "561880",
+    "name": "561880",
+    "market": "sh",
+    "track": "561880",
+    "data_days": 371,
+    "last_amount": 398995,
+    "data_ok": true,
+    "sector": "561880"
+  },
+  {
+    "code": "562000",
+    "name": "562000",
+    "market": "sh",
+    "track": "562000",
+    "data_days": 975,
+    "last_amount": 7349425,
+    "data_ok": true,
+    "sector": "562000"
+  },
+  {
+    "code": "562080",
+    "name": "562080",
+    "market": "sh",
+    "track": "562080",
+    "data_days": 321,
+    "last_amount": 28447248,
+    "data_ok": true,
+    "sector": "562080"
+  },
+  {
+    "code": "562890",
+    "name": "562890",
+    "market": "sh",
+    "track": "562890",
+    "data_days": 581,
+    "last_amount": 17783246,
+    "data_ok": true,
+    "sector": "562890"
+  },
+  {
+    "code": "563680",
+    "name": "800现金流ETF汇添富",
+    "market": "sh",
+    "track": "800现金流",
+    "data_days": 302,
+    "last_amount": 3560810,
+    "data_ok": true,
+    "sector": "800现金流"
+  },
+  {
+    "code": "560570",
+    "name": "A500红利ETF国联安",
+    "market": "sh",
+    "track": "A500",
+    "data_days": 213,
+    "last_amount": 33056120,
+    "data_ok": true,
+    "sector": "A500"
+  },
+  {
+    "code": "563600",
+    "name": "A500增强ETF易方达",
+    "market": "sh",
+    "track": "A500",
+    "data_days": 207,
+    "last_amount": 1857545,
+    "data_ok": true,
+    "sector": "A500"
+  },
+  {
+    "code": "512930",
+    "name": "AI人工智能ETF平安",
+    "market": "sh",
+    "track": "AI人工智能",
+    "data_days": 1686,
+    "last_amount": 150981024,
+    "data_ok": true,
+    "sector": "AI人工智能"
+  },
+  {
+    "code": "510770",
+    "name": "G60创新ETF申万菱信",
+    "market": "sh",
+    "track": "G60创新申万菱信",
+    "data_days": 1177,
+    "last_amount": 4592206,
+    "data_ok": true,
+    "sector": "G60创新申万菱信"
+  },
+  {
+    "code": "512520",
+    "name": "MSCI中国ETF华泰柏瑞",
+    "market": "sh",
+    "track": "MSCI中国",
+    "data_days": 1997,
+    "last_amount": 440445,
+    "data_ok": true,
+    "sector": "MSCI中国"
+  },
+  {
+    "code": "512160",
+    "name": "MSCI中国A股ETF南方",
+    "market": "sh",
+    "track": "MSCI中国A股",
+    "data_days": 2010,
+    "last_amount": 3524712,
+    "data_ok": true,
+    "sector": "MSCI中国A股"
+  },
+  {
+    "code": "515110",
+    "name": "一带一路ETF易方达",
+    "market": "sh",
+    "track": "一带一路",
+    "data_days": 1590,
+    "last_amount": 13142379,
+    "data_ok": true,
+    "sector": "一带一路"
+  },
+  {
+    "code": "515150",
+    "name": "一带一路ETF富国",
+    "market": "sh",
+    "track": "一带一路",
+    "data_days": 1590,
+    "last_amount": 2936030,
+    "data_ok": true,
+    "sector": "一带一路"
+  },
+  {
+    "code": "510810",
+    "name": "上海国企ETF汇添富",
+    "market": "sh",
+    "track": "上海国企",
+    "data_days": 2413,
+    "last_amount": 4970215,
+    "data_ok": true,
+    "sector": "上海国企"
+  },
+  {
+    "code": "518860",
+    "name": "上海金ETF建信",
+    "market": "sh",
+    "track": "上海金",
+    "data_days": 1434,
+    "last_amount": 39653520,
+    "data_ok": true,
+    "sector": "上海金"
+  },
+  {
+    "code": "518890",
+    "name": "上海金ETF中银",
+    "market": "sh",
+    "track": "上海金",
+    "data_days": 1419,
+    "last_amount": 49274388,
+    "data_ok": true,
+    "sector": "上海金"
+  },
+  {
+    "code": "510210",
+    "name": "上证指数ETF富国",
+    "market": "sh",
+    "track": "上证",
+    "data_days": 3735,
+    "last_amount": 1253718144,
+    "data_ok": true,
+    "sector": "上证"
+  },
+  {
+    "code": "510760",
+    "name": "上证指数ETF国泰",
+    "market": "sh",
+    "track": "上证",
+    "data_days": 1432,
+    "last_amount": 320390944,
+    "data_ok": true,
+    "sector": "上证"
+  },
+  {
+    "code": "510180",
+    "name": "上证180ETF华安",
+    "market": "sh",
+    "track": "上证180",
+    "data_days": 4916,
+    "last_amount": 67902448,
+    "data_ok": true,
+    "sector": "上证180"
+  },
+  {
+    "code": "530580",
+    "name": "上证180ETF南方",
+    "market": "sh",
+    "track": "上证180",
+    "data_days": 383,
+    "last_amount": 14545842,
+    "data_ok": true,
+    "sector": "上证180"
+  },
+  {
+    "code": "510290",
+    "name": "上证380ETF南方",
+    "market": "sh",
+    "track": "上证380",
+    "data_days": 3583,
+    "last_amount": 4834344,
+    "data_ok": true,
+    "sector": "上证380"
+  },
+  {
+    "code": "530380",
+    "name": "上证380ETF易方达",
+    "market": "sh",
+    "track": "上证380",
+    "data_days": 205,
+    "last_amount": 5058621,
+    "data_ok": true,
+    "sector": "上证380"
+  },
+  {
+    "code": "510050",
+    "name": "上证50ETF华夏",
+    "market": "sh",
+    "track": "上证50",
+    "data_days": 5216,
+    "last_amount": 1566985088,
+    "data_ok": true,
+    "sector": "上证50"
+  },
+  {
+    "code": "510100",
+    "name": "上证50ETF易方达",
+    "market": "sh",
+    "track": "上证50",
+    "data_days": 1659,
+    "last_amount": 325776544,
+    "data_ok": true,
+    "sector": "上证50"
+  },
+  {
+    "code": "530100",
+    "name": "上证580ETF易方达",
+    "market": "sh",
+    "track": "上证580",
+    "data_days": 195,
+    "last_amount": 4019398,
+    "data_ok": true,
+    "sector": "上证580"
+  },
+  {
+    "code": "530530",
+    "name": "上证580ETF华夏",
+    "market": "sh",
+    "track": "上证580",
+    "data_days": 227,
+    "last_amount": 1338253,
+    "data_ok": true,
+    "sector": "上证580"
+  },
+  {
+    "code": "510130",
+    "name": "上证中盘ETF易方达",
+    "market": "sh",
+    "track": "上证中盘",
+    "data_days": 3918,
+    "last_amount": 1656200,
+    "data_ok": true,
+    "sector": "上证中盘"
+  },
+  {
+    "code": "510200",
+    "name": "上证券商ETF汇安",
+    "market": "sh",
+    "track": "上证券商汇安",
+    "data_days": 1518,
+    "last_amount": 3067203,
+    "data_ok": true,
+    "sector": "上证券商汇安"
+  },
+  {
+    "code": "563210",
+    "name": "专精特新ETF富国",
+    "market": "sh",
+    "track": "专精特新",
+    "data_days": 371,
+    "last_amount": 26205140,
+    "data_ok": true,
+    "sector": "专精特新"
+  },
+  {
+    "code": "513730",
+    "name": "东南亚科技ETF华泰柏瑞",
+    "market": "sh",
+    "track": "东南亚科技",
+    "data_days": 650,
+    "last_amount": 17821652,
+    "data_ok": true,
+    "sector": "东南亚科技"
+  },
+  {
+    "code": "159918",
+    "name": "中创400ETF嘉实",
+    "market": "sh",
+    "track": "中创400",
+    "data_days": 3389,
+    "last_amount": 5641882,
+    "data_ok": true,
+    "sector": "中创400"
+  },
+  {
+    "code": "560050",
+    "name": "中国A50ETF汇添富",
+    "market": "sh",
+    "track": "中国A50",
+    "data_days": 1153,
+    "last_amount": 53421576,
+    "data_ok": true,
+    "sector": "中国A50"
+  },
+  {
+    "code": "563000",
+    "name": "中国A50ETF易方达",
+    "market": "sh",
+    "track": "中国A50",
+    "data_days": 1153,
+    "last_amount": 20447792,
+    "data_ok": true,
+    "sector": "中国A50"
+  },
+  {
+    "code": "512390",
+    "name": "中国低波ETF平安",
+    "market": "sh",
+    "track": "中国低波",
+    "data_days": 1958,
+    "last_amount": 381564,
+    "data_ok": true,
+    "sector": "中国低波"
+  },
+  {
+    "code": "517180",
+    "name": "中国国企ETF南方",
+    "market": "sh",
+    "track": "中国国企",
+    "data_days": 1117,
+    "last_amount": 6954973,
+    "data_ok": true,
+    "sector": "中国国企"
+  },
+  {
+    "code": "159902",
+    "name": "中小100ETF华夏",
+    "market": "sh",
+    "track": "中小100",
+    "data_days": 4841,
+    "last_amount": 7124432,
+    "data_ok": true,
+    "sector": "中小100"
+  },
+  {
+    "code": "159605",
+    "name": "中概互联ETF广发",
+    "market": "sh",
+    "track": "中概互联",
+    "data_days": 1135,
+    "last_amount": 205370160,
+    "data_ok": true,
+    "sector": "中概互联"
+  },
+  {
+    "code": "513220",
+    "name": "中概互联ETF招商",
+    "market": "sh",
+    "track": "中概互联",
+    "data_days": 986,
+    "last_amount": 24005552,
+    "data_ok": true,
+    "sector": "中概互联"
+  },
+  {
+    "code": "159607",
+    "name": "中概互联网ETF嘉实",
+    "market": "sh",
+    "track": "中概互联网",
+    "data_days": 1135,
+    "last_amount": 114539288,
+    "data_ok": true,
+    "sector": "中概互联网"
+  },
+  {
+    "code": "513050",
+    "name": "中概互联网ETF易方达",
+    "market": "sh",
+    "track": "中概互联网",
+    "data_days": 2319,
+    "last_amount": 2057625728,
+    "data_ok": true,
+    "sector": "中概互联网"
+  },
+  {
+    "code": "159647",
+    "name": "中药ETF鹏华",
+    "market": "sh",
+    "track": "中药",
+    "data_days": 977,
+    "last_amount": 294282720,
+    "data_ok": true,
+    "sector": "中药"
+  },
+  {
+    "code": "560080",
+    "name": "中药ETF汇添富",
+    "market": "sh",
+    "track": "中药",
+    "data_days": 926,
+    "last_amount": 69109712,
+    "data_ok": true,
+    "sector": "中药"
+  },
+  {
+    "code": "159845",
+    "name": "中证1000ETF华夏",
+    "market": "sh",
+    "track": "中证1000",
+    "data_days": 1299,
+    "last_amount": 4420003328,
+    "data_ok": true,
+    "sector": "中证1000"
+  },
+  {
+    "code": "512100",
+    "name": "中证1000ETF南方",
+    "market": "sh",
+    "track": "中证1000",
+    "data_days": 2371,
+    "last_amount": 6785065984,
+    "data_ok": true,
+    "sector": "中证1000"
+  },
+  {
+    "code": "159531",
+    "name": "中证2000ETF南方",
+    "market": "sh",
+    "track": "中证2000",
+    "data_days": 698,
+    "last_amount": 318947808,
+    "data_ok": true,
+    "sector": "中证2000"
+  },
+  {
+    "code": "563300",
+    "name": "中证2000ETF华泰柏瑞",
+    "market": "sh",
+    "track": "中证2000",
+    "data_days": 700,
+    "last_amount": 1077780736,
+    "data_ok": true,
+    "sector": "中证2000"
+  },
+  {
+    "code": "510500",
+    "name": "中证500ETF南方",
+    "market": "sh",
+    "track": "中证500",
+    "data_days": 3255,
+    "last_amount": 2926724096,
+    "data_ok": true,
+    "sector": "中证500"
+  },
+  {
+    "code": "512500",
+    "name": "中证500ETF华夏",
+    "market": "sh",
+    "track": "中证500",
+    "data_days": 2721,
+    "last_amount": 471896416,
+    "data_ok": true,
+    "sector": "中证500"
+  },
+  {
+    "code": "515800",
+    "name": "中证800ETF汇添富",
+    "market": "sh",
+    "track": "中证800",
+    "data_days": 1611,
+    "last_amount": 104862312,
+    "data_ok": true,
+    "sector": "中证800"
+  },
+  {
+    "code": "515810",
+    "name": "中证800ETF易方达",
+    "market": "sh",
+    "track": "中证800",
+    "data_days": 1647,
+    "last_amount": 9150890,
+    "data_ok": true,
+    "sector": "中证800"
+  },
+  {
+    "code": "159923",
+    "name": "中证A100ETF大成",
+    "market": "sh",
+    "track": "中证A100",
+    "data_days": 3253,
+    "last_amount": 6042103,
+    "data_ok": true,
+    "sector": "中证A100"
+  },
+  {
+    "code": "561200",
+    "name": "中证A100ETF工银",
+    "market": "sh",
+    "track": "中证A100",
+    "data_days": 626,
+    "last_amount": 2644659,
+    "data_ok": true,
+    "sector": "中证A100"
+  },
+  {
+    "code": "159338",
+    "name": "中证A500ETF国泰",
+    "market": "sh",
+    "track": "中证A50",
+    "data_days": 443,
+    "last_amount": 3691115776,
+    "data_ok": true,
+    "sector": "中证A50"
+  },
+  {
+    "code": "159353",
+    "name": "中证A500ETF景顺",
+    "market": "sh",
+    "track": "中证A50",
+    "data_days": 443,
+    "last_amount": 171853072,
+    "data_ok": true,
+    "sector": "中证A50"
+  },
+  {
+    "code": "159235",
+    "name": "中证现金流ETF大成",
+    "market": "sh",
+    "track": "中证现金流",
+    "data_days": 310,
+    "last_amount": 208330032,
+    "data_ok": true,
+    "sector": "中证现金流"
+  },
+  {
+    "code": "515080",
+    "name": "中证红利ETF招商",
+    "market": "sh",
+    "track": "中证红利",
+    "data_days": 1602,
+    "last_amount": 315219584,
+    "data_ok": true,
+    "sector": "中证红利"
+  },
+  {
+    "code": "513310",
+    "name": "中韩半导体ETF华泰柏瑞",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 878,
+    "last_amount": 16572230656,
+    "data_ok": true,
+    "sector": "中韩半导体"
+  },
+  {
+    "code": "516510",
+    "name": "云计算ETF易方达",
+    "market": "sh",
+    "track": "云计算",
+    "data_days": 1295,
+    "last_amount": 279705920,
+    "data_ok": true,
+    "sector": "云计算"
+  },
+  {
+    "code": "516630",
+    "name": "云计算ETF华夏",
+    "market": "sh",
+    "track": "云计算",
+    "data_days": 1192,
+    "last_amount": 86669728,
+    "data_ok": true,
+    "sector": "云计算"
+  },
+  {
+    "code": "560660",
+    "name": "云计算50ETF新华",
+    "market": "sh",
+    "track": "云计算50新华",
+    "data_days": 1199,
+    "last_amount": 9846232,
+    "data_ok": true,
+    "sector": "云计算50新华"
+  },
+  {
+    "code": "517050",
+    "name": "互联网ETF华泰柏瑞",
+    "market": "sh",
+    "track": "互联网",
+    "data_days": 1331,
+    "last_amount": 1777154,
+    "data_ok": true,
+    "sector": "互联网"
+  },
+  {
+    "code": "517200",
+    "name": "互联网ETF嘉实",
+    "market": "sh",
+    "track": "互联网",
+    "data_days": 1331,
+    "last_amount": 1922441,
+    "data_ok": true,
+    "sector": "互联网"
+  },
+  {
+    "code": "159550",
+    "name": "互联网ETF东财",
+    "market": "sh",
+    "track": "互联网东财",
+    "data_days": 272,
+    "last_amount": 13658256,
+    "data_ok": true,
+    "sector": "互联网东财"
+  },
+  {
+    "code": "159856",
+    "name": "互联网龙头ETF工银",
+    "market": "sh",
+    "track": "互联网龙头",
+    "data_days": 1336,
+    "last_amount": 2434326,
+    "data_ok": true,
+    "sector": "互联网龙头"
+  },
+  {
+    "code": "159687",
+    "name": "亚太精选ETF南方",
+    "market": "sh",
+    "track": "亚太精选",
+    "data_days": 869,
+    "last_amount": 134574928,
+    "data_ok": true,
+    "sector": "亚太精选"
+  },
+  {
+    "code": "159662",
+    "name": "交运ETF南方",
+    "market": "sh",
+    "track": "交运",
+    "data_days": 892,
+    "last_amount": 19586092,
+    "data_ok": true,
+    "sector": "交运"
+  },
+  {
+    "code": "561320",
+    "name": "交运ETF国泰",
+    "market": "sh",
+    "track": "交运",
+    "data_days": 888,
+    "last_amount": 1568286,
+    "data_ok": true,
+    "sector": "交运"
+  },
+  {
+    "code": "159666",
+    "name": "交通运输ETF华夏",
+    "market": "sh",
+    "track": "交通运输",
+    "data_days": 847,
+    "last_amount": 18423714,
+    "data_ok": true,
+    "sector": "交通运输"
+  },
+  {
+    "code": "159819",
+    "name": "人工智能ETF易方达",
+    "market": "sh",
+    "track": "人工智能",
+    "data_days": 1422,
+    "last_amount": 488090176,
+    "data_ok": true,
+    "sector": "人工智能"
+  },
+  {
+    "code": "515070",
+    "name": "人工智能ETF华夏",
+    "market": "sh",
+    "track": "人工智能",
+    "data_days": 1605,
+    "last_amount": 151885568,
+    "data_ok": true,
+    "sector": "人工智能"
+  },
+  {
+    "code": "517800",
+    "name": "人工智能50ETF方正富邦",
+    "market": "sh",
+    "track": "人工智能50方正富邦",
+    "data_days": 1198,
+    "last_amount": 5585860,
+    "data_ok": true,
+    "sector": "人工智能50方正富邦"
+  },
+  {
+    "code": "515980",
+    "name": "人工智能ETF华富",
+    "market": "sh",
+    "track": "人工智能华富",
+    "data_days": 1578,
+    "last_amount": 255081072,
+    "data_ok": true,
+    "sector": "人工智能华富"
+  },
+  {
+    "code": "159263",
+    "name": "价值ETF易方达",
+    "market": "sh",
+    "track": "价值",
+    "data_days": 265,
+    "last_amount": 424457792,
+    "data_ok": true,
+    "sector": "价值"
+  },
+  {
+    "code": "512040",
+    "name": "价值ETF富国",
+    "market": "sh",
+    "track": "价值",
+    "data_days": 1865,
+    "last_amount": 243427456,
+    "data_ok": true,
+    "sector": "价值"
+  },
+  {
+    "code": "159805",
+    "name": "传媒ETF鹏华",
+    "market": "sh",
+    "track": "传媒",
+    "data_days": 1530,
+    "last_amount": 65760292,
+    "data_ok": true,
+    "sector": "传媒"
+  },
+  {
+    "code": "512980",
+    "name": "传媒ETF广发",
+    "market": "sh",
+    "track": "传媒",
+    "data_days": 2073,
+    "last_amount": 484124416,
+    "data_ok": true,
+    "sector": "传媒"
+  },
+  {
+    "code": "516070",
+    "name": "低碳ETF易方达",
+    "market": "sh",
+    "track": "低碳",
+    "data_days": 1283,
+    "last_amount": 1759250,
+    "data_ok": true,
+    "sector": "低碳"
+  },
+  {
+    "code": "159540",
+    "name": "信创ETF易方达",
+    "market": "sh",
+    "track": "信创",
+    "data_days": 690,
+    "last_amount": 30393780,
+    "data_ok": true,
+    "sector": "信创"
+  },
+  {
+    "code": "562570",
+    "name": "信创ETF华夏",
+    "market": "sh",
+    "track": "信创",
+    "data_days": 552,
+    "last_amount": 22336568,
+    "data_ok": true,
+    "sector": "信创"
+  },
+  {
+    "code": "159613",
+    "name": "信息安全ETF嘉实",
+    "market": "sh",
+    "track": "信息安全",
+    "data_days": 1096,
+    "last_amount": 12392909,
+    "data_ok": true,
+    "sector": "信息安全"
+  },
+  {
+    "code": "562920",
+    "name": "信息安全ETF易方达",
+    "market": "sh",
+    "track": "信息安全",
+    "data_days": 766,
+    "last_amount": 9031128,
+    "data_ok": true,
+    "sector": "信息安全"
+  },
+  {
+    "code": "159939",
+    "name": "信息技术ETF广发",
+    "market": "sh",
+    "track": "信息技术",
+    "data_days": 2795,
+    "last_amount": 45851360,
+    "data_ok": true,
+    "sector": "信息技术"
+  },
+  {
+    "code": "562560",
+    "name": "信息技术ETF华夏",
+    "market": "sh",
+    "track": "信息技术",
+    "data_days": 564,
+    "last_amount": 3277532,
+    "data_ok": true,
+    "sector": "信息技术"
+  },
+  {
+    "code": "512330",
+    "name": "信息科技ETF南方",
+    "market": "sh",
+    "track": "信息科技",
+    "data_days": 2686,
+    "last_amount": 9962035,
+    "data_ok": true,
+    "sector": "信息科技"
+  },
+  {
+    "code": "159305",
+    "name": "储能电池ETF广发",
+    "market": "sh",
+    "track": "储能电池",
+    "data_days": 449,
+    "last_amount": 52670848,
+    "data_ok": true,
+    "sector": "储能电池"
+  },
+  {
+    "code": "159566",
+    "name": "储能电池ETF易方达",
+    "market": "sh",
+    "track": "储能电池",
+    "data_days": 602,
+    "last_amount": 324232416,
+    "data_ok": true,
+    "sector": "储能电池"
+  },
+  {
+    "code": "159857",
+    "name": "光伏ETF天弘",
+    "market": "sh",
+    "track": "光伏",
+    "data_days": 1324,
+    "last_amount": 85823712,
+    "data_ok": true,
+    "sector": "光伏"
+  },
+  {
+    "code": "515790",
+    "name": "光伏ETF华泰柏瑞",
+    "market": "sh",
+    "track": "光伏",
+    "data_days": 1366,
+    "last_amount": 302993856,
+    "data_ok": true,
+    "sector": "光伏"
+  },
+  {
+    "code": "560980",
+    "name": "光伏龙头ETF广发",
+    "market": "sh",
+    "track": "光伏龙头",
+    "data_days": 895,
+    "last_amount": 32191244,
+    "data_ok": true,
+    "sector": "光伏龙头"
+  },
+  {
+    "code": "563390",
+    "name": "全指现金流ETF华泰柏瑞",
+    "market": "sh",
+    "track": "全指现金流",
+    "data_days": 310,
+    "last_amount": 131021144,
+    "data_ok": true,
+    "sector": "全指现金流"
+  },
+  {
+    "code": "563760",
+    "name": "全指现金流ETF中银",
+    "market": "sh",
+    "track": "全指现金流",
+    "data_days": 287,
+    "last_amount": 96495912,
+    "data_ok": true,
+    "sector": "全指现金流"
+  },
+  {
+    "code": "159301",
+    "name": "公用事业ETF华夏",
+    "market": "sh",
+    "track": "公用事业",
+    "data_days": 497,
+    "last_amount": 22585368,
+    "data_ok": true,
+    "sector": "公用事业"
+  },
+  {
+    "code": "560190",
+    "name": "公用事业ETF鹏华",
+    "market": "sh",
+    "track": "公用事业",
+    "data_days": 385,
+    "last_amount": 359388,
+    "data_ok": true,
+    "sector": "公用事业"
+  },
+  {
+    "code": "563360",
+    "name": "兵团2414",
+    "market": "sh",
+    "track": "兵团2414",
+    "data_days": 443,
+    "last_amount": 4596488192,
+    "data_ok": true,
+    "sector": "兵团2414"
+  },
+  {
+    "code": "159865",
+    "name": "养殖ETF国泰",
+    "market": "sh",
+    "track": "养殖",
+    "data_days": 1316,
+    "last_amount": 185700592,
+    "data_ok": true,
+    "sector": "养殖"
+  },
+  {
+    "code": "159867",
+    "name": "养殖ETF鹏华",
+    "market": "sh",
+    "track": "养殖",
+    "data_days": 1317,
+    "last_amount": 19951214,
+    "data_ok": true,
+    "sector": "养殖"
+  },
+  {
+    "code": "516560",
+    "name": "养老ETF华宝",
+    "market": "sh",
+    "track": "养老",
+    "data_days": 1183,
+    "last_amount": 4687144,
+    "data_ok": true,
+    "sector": "养老"
+  },
+  {
+    "code": "512560",
+    "name": "军工ETF易方达",
+    "market": "sh",
+    "track": "军工",
+    "data_days": 2192,
+    "last_amount": 57735956,
+    "data_ok": true,
+    "sector": "军工"
+  },
+  {
+    "code": "512660",
+    "name": "军工ETF国泰",
+    "market": "sh",
+    "track": "军工",
+    "data_days": 2428,
+    "last_amount": 283770048,
+    "data_ok": true,
+    "sector": "军工"
+  },
+  {
+    "code": "512710",
+    "name": "军工龙头ETF富国",
+    "market": "sh",
+    "track": "军工龙头",
+    "data_days": 1685,
+    "last_amount": 271661280,
+    "data_ok": true,
+    "sector": "军工龙头"
+  },
+  {
+    "code": "159825",
+    "name": "农业ETF富国",
+    "market": "sh",
+    "track": "农业",
+    "data_days": 1359,
+    "last_amount": 46929600,
+    "data_ok": true,
+    "sector": "农业"
+  },
+  {
+    "code": "516810",
+    "name": "农业ETF华夏",
+    "market": "sh",
+    "track": "农业",
+    "data_days": 1108,
+    "last_amount": 69206912,
+    "data_ok": true,
+    "sector": "农业"
+  },
+  {
+    "code": "159616",
+    "name": "农牧ETF建信",
+    "market": "sh",
+    "track": "农牧",
+    "data_days": 970,
+    "last_amount": 13875952,
+    "data_ok": true,
+    "sector": "农牧"
+  },
+  {
+    "code": "159275",
+    "name": "农牧渔ETF华宝",
+    "market": "sh",
+    "track": "农牧渔",
+    "data_days": 206,
+    "last_amount": 9176703,
+    "data_ok": true,
+    "sector": "农牧渔"
+  },
+  {
+    "code": "159808",
+    "name": "创100ETF融通",
+    "market": "sh",
+    "track": "创100融通",
+    "data_days": 1435,
+    "last_amount": 1221759,
+    "data_ok": true,
+    "sector": "创100融通"
+  },
+  {
+    "code": "159370",
+    "name": "创50ETF工银",
+    "market": "sh",
+    "track": "创50",
+    "data_days": 375,
+    "last_amount": 9256650,
+    "data_ok": true,
+    "sector": "创50"
+  },
+  {
+    "code": "159814",
+    "name": "创业大盘ETF西部利得",
+    "market": "sh",
+    "track": "创业大盘西部利得",
+    "data_days": 1470,
+    "last_amount": 56359808,
+    "data_ok": true,
+    "sector": "创业大盘西部利得"
+  },
+  {
+    "code": "159915",
+    "name": "创业板ETF易方达",
+    "market": "sh",
+    "track": "创业板",
+    "data_days": 3559,
+    "last_amount": 7613154304,
+    "data_ok": true,
+    "sector": "创业板"
+  },
+  {
+    "code": "159949",
+    "name": "创业板50ETF华安",
+    "market": "sh",
+    "track": "创业板",
+    "data_days": 2439,
+    "last_amount": 2267492608,
+    "data_ok": true,
+    "sector": "创业板"
+  },
+  {
+    "code": "159295",
+    "name": "创业综指ETF西部利得",
+    "market": "sh",
+    "track": "创业综指西部利得",
+    "data_days": 186,
+    "last_amount": 3312146,
+    "data_ok": true,
+    "sector": "创业综指西部利得"
+  },
+  {
+    "code": "159804",
+    "name": "创中盘88ETF国寿",
+    "market": "sh",
+    "track": "创中盘88国寿",
+    "data_days": 1542,
+    "last_amount": 128460,
+    "data_ok": true,
+    "sector": "创中盘88国寿"
+  },
+  {
+    "code": "515200",
+    "name": "创新100ETF申万菱信",
+    "market": "sh",
+    "track": "创新100申万菱信",
+    "data_days": 1632,
+    "last_amount": 2326414,
+    "data_ok": true,
+    "sector": "创新100申万菱信"
+  },
+  {
+    "code": "159992",
+    "name": "创新药ETF银华",
+    "market": "sh",
+    "track": "创新药",
+    "data_days": 1535,
+    "last_amount": 1882267904,
+    "data_ok": true,
+    "sector": "创新药"
+  },
+  {
+    "code": "515120",
+    "name": "创新药ETF广发",
+    "market": "sh",
+    "track": "创新药",
+    "data_days": 1356,
+    "last_amount": 1489883904,
+    "data_ok": true,
+    "sector": "创新药"
+  },
+  {
+    "code": "159622",
+    "name": "创新药ETF东财",
+    "market": "sh",
+    "track": "创新药东财",
+    "data_days": 790,
+    "last_amount": 264459216,
+    "data_ok": true,
+    "sector": "创新药东财"
+  },
+  {
+    "code": "159777",
+    "name": "创科技ETF国联安",
+    "market": "sh",
+    "track": "创科技国联安",
+    "data_days": 1166,
+    "last_amount": 4687537,
+    "data_ok": true,
+    "sector": "创科技国联安"
+  },
+  {
+    "code": "159842",
+    "name": "券商ETF银华",
+    "market": "sh",
+    "track": "券商",
+    "data_days": 1307,
+    "last_amount": 593647104,
+    "data_ok": true,
+    "sector": "券商"
+  },
+  {
+    "code": "512000",
+    "name": "券商ETF华宝",
+    "market": "sh",
+    "track": "券商",
+    "data_days": 2401,
+    "last_amount": 1392387712,
+    "data_ok": true,
+    "sector": "券商"
+  },
+  {
+    "code": "159870",
+    "name": "化工ETF鹏华",
+    "market": "sh",
+    "track": "化工",
+    "data_days": 1319,
+    "last_amount": 303836352,
+    "data_ok": true,
+    "sector": "化工"
+  },
+  {
+    "code": "516120",
+    "name": "化工ETF富国",
+    "market": "sh",
+    "track": "化工",
+    "data_days": 1315,
+    "last_amount": 117596728,
+    "data_ok": true,
+    "sector": "化工"
+  },
+  {
+    "code": "516570",
+    "name": "化工行业ETF易方达",
+    "market": "sh",
+    "track": "化工行业",
+    "data_days": 1247,
+    "last_amount": 43490328,
+    "data_ok": true,
+    "sector": "化工行业"
+  },
+  {
+    "code": "159828",
+    "name": "医疗ETF国泰",
+    "market": "sh",
+    "track": "医疗",
+    "data_days": 1350,
+    "last_amount": 128862888,
+    "data_ok": true,
+    "sector": "医疗"
+  },
+  {
+    "code": "512170",
+    "name": "医疗ETF华宝",
+    "market": "sh",
+    "track": "医疗",
+    "data_days": 1735,
+    "last_amount": 1235164032,
+    "data_ok": true,
+    "sector": "医疗"
+  },
+  {
+    "code": "159760",
+    "name": "医疗健康ETF泰康",
+    "market": "sh",
+    "track": "医疗健康",
+    "data_days": 1123,
+    "last_amount": 2929948,
+    "data_ok": true,
+    "sector": "医疗健康"
+  },
+  {
+    "code": "516820",
+    "name": "医疗创新ETF平安",
+    "market": "sh",
+    "track": "医疗创新",
+    "data_days": 1238,
+    "last_amount": 132405032,
+    "data_ok": true,
+    "sector": "医疗创新"
+  },
+  {
+    "code": "159898",
+    "name": "医疗器械ETF招商",
+    "market": "sh",
+    "track": "医疗器械",
+    "data_days": 1256,
+    "last_amount": 14523056,
+    "data_ok": true,
+    "sector": "医疗器械"
+  },
+  {
+    "code": "562600",
+    "name": "医疗器械ETF华夏",
+    "market": "sh",
+    "track": "医疗器械",
+    "data_days": 644,
+    "last_amount": 31618112,
+    "data_ok": true,
+    "sector": "医疗器械"
+  },
+  {
+    "code": "159883",
+    "name": "医疗器械ETF永赢",
+    "market": "sh",
+    "track": "医疗器械永赢",
+    "data_days": 1278,
+    "last_amount": 130365528,
+    "data_ok": true,
+    "sector": "医疗器械永赢"
+  },
+  {
+    "code": "159873",
+    "name": "医疗设备ETF天弘",
+    "market": "sh",
+    "track": "医疗设备",
+    "data_days": 1301,
+    "last_amount": 19632436,
+    "data_ok": true,
+    "sector": "医疗设备"
+  },
+  {
+    "code": "516610",
+    "name": "医疗设备ETF大成",
+    "market": "sh",
+    "track": "医疗设备",
+    "data_days": 1272,
+    "last_amount": 7266979,
+    "data_ok": true,
+    "sector": "医疗设备"
+  },
+  {
+    "code": "159929",
+    "name": "医药ETF汇添富",
+    "market": "sh",
+    "track": "医药",
+    "data_days": 3133,
+    "last_amount": 184760784,
+    "data_ok": true,
+    "sector": "医药"
+  },
+  {
+    "code": "512010",
+    "name": "医药ETF易方达",
+    "market": "sh",
+    "track": "医药",
+    "data_days": 3110,
+    "last_amount": 1154913152,
+    "data_ok": true,
+    "sector": "医药"
+  },
+  {
+    "code": "159838",
+    "name": "医药50ETF博时",
+    "market": "sh",
+    "track": "医药50",
+    "data_days": 1217,
+    "last_amount": 10467000,
+    "data_ok": true,
+    "sector": "医药50"
+  },
+  {
+    "code": "515950",
+    "name": "医药50ETF富国",
+    "market": "sh",
+    "track": "医药50",
+    "data_days": 1541,
+    "last_amount": 25643876,
+    "data_ok": true,
+    "sector": "医药50"
+  },
+  {
+    "code": "159813",
+    "name": "半导体ETF鹏华",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 1507,
+    "last_amount": 424059872,
+    "data_ok": true,
+    "sector": "半导体"
+  },
+  {
+    "code": "512480",
+    "name": "半导体ETF国联安",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 1738,
+    "last_amount": 1763776640,
+    "data_ok": true,
+    "sector": "半导体"
+  },
+  {
+    "code": "159516",
+    "name": "半导体设备ETF国泰",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 735,
+    "last_amount": 4889804288,
+    "data_ok": true,
+    "sector": "半导体设备"
+  },
+  {
+    "code": "159558",
+    "name": "半导体设备ETF易方达",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 521,
+    "last_amount": 1880970880,
+    "data_ok": true,
+    "sector": "半导体设备"
+  },
+  {
+    "code": "159665",
+    "name": "半导体龙头ETF工银",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 868,
+    "last_amount": 95860704,
+    "data_ok": true,
+    "sector": "半导体龙头"
+  },
+  {
+    "code": "512630",
+    "name": "卫星ETF广发",
+    "market": "sh",
+    "track": "卫星",
+    "data_days": 195,
+    "last_amount": 158266592,
+    "data_ok": true,
+    "sector": "卫星"
+  },
+  {
+    "code": "563230",
+    "name": "卫星ETF富国",
+    "market": "sh",
+    "track": "卫星",
+    "data_days": 214,
+    "last_amount": 340690016,
+    "data_ok": true,
+    "sector": "卫星"
+  },
+  {
+    "code": "159206",
+    "name": "卫星ETF永赢",
+    "market": "sh",
+    "track": "卫星永赢",
+    "data_days": 342,
+    "last_amount": 885293888,
+    "data_ok": true,
+    "sector": "卫星永赢"
+  },
+  {
+    "code": "563550",
+    "name": "厦门2447",
+    "market": "sh",
+    "track": "厦门2447",
+    "data_days": 301,
+    "last_amount": 15430459,
+    "data_ok": true,
+    "sector": "厦门2447"
+  },
+  {
+    "code": "159782",
+    "name": "双创50ETF银华",
+    "market": "sh",
+    "track": "双创50",
+    "data_days": 1234,
+    "last_amount": 39109444,
+    "data_ok": true,
+    "sector": "双创50"
+  },
+  {
+    "code": "588330",
+    "name": "双创50ETF华宝",
+    "market": "sh",
+    "track": "双创50",
+    "data_days": 1235,
+    "last_amount": 121698128,
+    "data_ok": true,
+    "sector": "双创50"
+  },
+  {
+    "code": "515090",
+    "name": "可持续发展ETF博时",
+    "market": "sh",
+    "track": "可持续发展",
+    "data_days": 1570,
+    "last_amount": 1110395,
+    "data_ok": true,
+    "sector": "可持续发展"
+  },
+  {
+    "code": "159936",
+    "name": "可选消费ETF广发",
+    "market": "sh",
+    "track": "可选消费",
+    "data_days": 2881,
+    "last_amount": 843341,
+    "data_ok": true,
+    "sector": "可选消费"
+  },
+  {
+    "code": "562580",
+    "name": "可选消费ETF华夏",
+    "market": "sh",
+    "track": "可选消费",
+    "data_days": 575,
+    "last_amount": 5066028,
+    "data_ok": true,
+    "sector": "可选消费"
+  },
+  {
+    "code": "517880",
+    "name": "品牌消费ETF华泰柏瑞",
+    "market": "sh",
+    "track": "品牌消费",
+    "data_days": 1136,
+    "last_amount": 1580571,
+    "data_ok": true,
+    "sector": "品牌消费"
+  },
+  {
+    "code": "563350",
+    "name": "四川2458",
+    "market": "sh",
+    "track": "四川2458",
+    "data_days": 581,
+    "last_amount": 23316388,
+    "data_ok": true,
+    "sector": "四川2458"
+  },
+  {
+    "code": "159719",
+    "name": "国企ETF平安",
+    "market": "sh",
+    "track": "国企",
+    "data_days": 1113,
+    "last_amount": 2674321,
+    "data_ok": true,
+    "sector": "国企"
+  },
+  {
+    "code": "510270",
+    "name": "国企ETF中银",
+    "market": "sh",
+    "track": "国企",
+    "data_days": 3635,
+    "last_amount": 1602099,
+    "data_ok": true,
+    "sector": "国企"
+  },
+  {
+    "code": "159528",
+    "name": "国企改革ETF富国",
+    "market": "sh",
+    "track": "国企改革",
+    "data_days": 540,
+    "last_amount": 520043,
+    "data_ok": true,
+    "sector": "国企改革"
+  },
+  {
+    "code": "561060",
+    "name": "国企红利ETF华安",
+    "market": "sh",
+    "track": "国企红利",
+    "data_days": 695,
+    "last_amount": 1175091,
+    "data_ok": true,
+    "sector": "国企红利"
+  },
+  {
+    "code": "563890",
+    "name": "国企红利ETF创金合信",
+    "market": "sh",
+    "track": "国企红利创金合信",
+    "data_days": 198,
+    "last_amount": 63257,
+    "data_ok": true,
+    "sector": "国企红利创金合信"
+  },
+  {
+    "code": "159515",
+    "name": "国企红利ETF鹏扬",
+    "market": "sh",
+    "track": "国企红利鹏扬",
+    "data_days": 705,
+    "last_amount": 1216369,
+    "data_ok": true,
+    "sector": "国企红利鹏扬"
+  },
+  {
+    "code": "159628",
+    "name": "国证2000ETF万家",
+    "market": "sh",
+    "track": "国证2000",
+    "data_days": 985,
+    "last_amount": 86918144,
+    "data_ok": true,
+    "sector": "国证2000"
+  },
+  {
+    "code": "159907",
+    "name": "国证2000ETF广发",
+    "market": "sh",
+    "track": "国证2000",
+    "data_days": 3633,
+    "last_amount": 9901126,
+    "data_ok": true,
+    "sector": "国证2000"
+  },
+  {
+    "code": "561130",
+    "name": "国货ETF富国",
+    "market": "sh",
+    "track": "国货",
+    "data_days": 1168,
+    "last_amount": 7268861,
+    "data_ok": true,
+    "sector": "国货"
+  },
+  {
+    "code": "512670",
+    "name": "国防ETF鹏华",
+    "market": "sh",
+    "track": "国防",
+    "data_days": 1702,
+    "last_amount": 77517512,
+    "data_ok": true,
+    "sector": "国防"
+  },
+  {
+    "code": "159728",
+    "name": "在线消费ETF南方",
+    "market": "sh",
+    "track": "在线消费",
+    "data_days": 1105,
+    "last_amount": 7502544,
+    "data_ok": true,
+    "sector": "在线消费"
+  },
+  {
+    "code": "159707",
+    "name": "地产ETF华宝",
+    "market": "sh",
+    "track": "地产",
+    "data_days": 1149,
+    "last_amount": 144303792,
+    "data_ok": true,
+    "sector": "地产"
+  },
+  {
+    "code": "159635",
+    "name": "基建ETF华夏",
+    "market": "sh",
+    "track": "基建",
+    "data_days": 989,
+    "last_amount": 28157346,
+    "data_ok": true,
+    "sector": "基建"
+  },
+  {
+    "code": "516970",
+    "name": "基建ETF广发",
+    "market": "sh",
+    "track": "基建",
+    "data_days": 1236,
+    "last_amount": 28947384,
+    "data_ok": true,
+    "sector": "基建"
+  },
+  {
+    "code": "159910",
+    "name": "基本面120ETF嘉实",
+    "market": "sh",
+    "track": "基本面120",
+    "data_days": 3534,
+    "last_amount": 299955,
+    "data_ok": true,
+    "sector": "基本面120"
+  },
+  {
+    "code": "512750",
+    "name": "基本面50ETF嘉实",
+    "market": "sh",
+    "track": "基本面50",
+    "data_days": 1721,
+    "last_amount": 2492921,
+    "data_ok": true,
+    "sector": "基本面50"
+  },
+  {
+    "code": "510170",
+    "name": "大宗商品ETF国联安",
+    "market": "sh",
+    "track": "大宗商品国联安",
+    "data_days": 3773,
+    "last_amount": 14975154,
+    "data_ok": true,
+    "sector": "大宗商品国联安"
+  },
+  {
+    "code": "515400",
+    "name": "大数据ETF富国",
+    "market": "sh",
+    "track": "大数据",
+    "data_days": 1344,
+    "last_amount": 125470720,
+    "data_ok": true,
+    "sector": "大数据"
+  },
+  {
+    "code": "516000",
+    "name": "大数据ETF华夏",
+    "market": "sh",
+    "track": "大数据",
+    "data_days": 1321,
+    "last_amount": 65258348,
+    "data_ok": true,
+    "sector": "大数据"
+  },
+  {
+    "code": "512970",
+    "name": "大湾区ETF平安",
+    "market": "sh",
+    "track": "大湾区",
+    "data_days": 1636,
+    "last_amount": 346076,
+    "data_ok": true,
+    "sector": "大湾区"
+  },
+  {
+    "code": "159391",
+    "name": "大盘价值ETF博时",
+    "market": "sh",
+    "track": "大盘价值",
+    "data_days": 316,
+    "last_amount": 1438670,
+    "data_ok": true,
+    "sector": "大盘价值"
+  },
+  {
+    "code": "159203",
+    "name": "大盘成长ETF博时",
+    "market": "sh",
+    "track": "大盘成长",
+    "data_days": 270,
+    "last_amount": 416279,
+    "data_ok": true,
+    "sector": "大盘成长"
+  },
+  {
+    "code": "563800",
+    "name": "天津2505",
+    "market": "sh",
+    "track": "天津2505",
+    "data_days": 419,
+    "last_amount": 336539712,
+    "data_ok": true,
+    "sector": "天津2505"
+  },
+  {
+    "code": "159959",
+    "name": "央企ETF银华",
+    "market": "sh",
+    "track": "央企",
+    "data_days": 1831,
+    "last_amount": 635765,
+    "data_ok": true,
+    "sector": "央企"
+  },
+  {
+    "code": "510060",
+    "name": "央企ETF工银",
+    "market": "sh",
+    "track": "央企",
+    "data_days": 4078,
+    "last_amount": 358536,
+    "data_ok": true,
+    "sector": "央企"
+  },
+  {
+    "code": "563060",
+    "name": "央企50ETF易方达",
+    "market": "sh",
+    "track": "央企50",
+    "data_days": 300,
+    "last_amount": 2457653,
+    "data_ok": true,
+    "sector": "央企50"
+  },
+  {
+    "code": "560810",
+    "name": "央企ESGETF融通",
+    "market": "sh",
+    "track": "央企ESG融通",
+    "data_days": 404,
+    "last_amount": 220671,
+    "data_ok": true,
+    "sector": "央企ESG融通"
+  },
+  {
+    "code": "517090",
+    "name": "央企共赢ETF国泰",
+    "market": "sh",
+    "track": "央企共赢",
+    "data_days": 1117,
+    "last_amount": 4847589,
+    "data_ok": true,
+    "sector": "央企共赢"
+  },
+  {
+    "code": "515680",
+    "name": "央企创新ETF嘉实",
+    "market": "sh",
+    "track": "央企创新",
+    "data_days": 1609,
+    "last_amount": 2841991,
+    "data_ok": true,
+    "sector": "央企创新"
+  },
+  {
+    "code": "515900",
+    "name": "央企创新ETF博时",
+    "market": "sh",
+    "track": "央企创新",
+    "data_days": 1609,
+    "last_amount": 6202109,
+    "data_ok": true,
+    "sector": "央企创新"
+  },
+  {
+    "code": "561960",
+    "name": "央企回报ETF招商",
+    "market": "sh",
+    "track": "央企回报",
+    "data_days": 770,
+    "last_amount": 606007,
+    "data_ok": true,
+    "sector": "央企回报"
+  },
+  {
+    "code": "512950",
+    "name": "央企改革ETF华夏",
+    "market": "sh",
+    "track": "央企改革",
+    "data_days": 1831,
+    "last_amount": 20841768,
+    "data_ok": true,
+    "sector": "央企改革"
+  },
+  {
+    "code": "159335",
+    "name": "央企科创ETF融通",
+    "market": "sh",
+    "track": "央企科创融通",
+    "data_days": 464,
+    "last_amount": 35756156,
+    "data_ok": true,
+    "sector": "央企科创融通"
+  },
+  {
+    "code": "560170",
+    "name": "央企科技ETF南方",
+    "market": "sh",
+    "track": "央企科技",
+    "data_days": 750,
+    "last_amount": 53027300,
+    "data_ok": true,
+    "sector": "央企科技"
+  },
+  {
+    "code": "563050",
+    "name": "央企科技ETF易方达",
+    "market": "sh",
+    "track": "央企科技",
+    "data_days": 750,
+    "last_amount": 10669048,
+    "data_ok": true,
+    "sector": "央企科技"
+  },
+  {
+    "code": "560700",
+    "name": "央企红利ETF广发",
+    "market": "sh",
+    "track": "央企红利",
+    "data_days": 770,
+    "last_amount": 8243699,
+    "data_ok": true,
+    "sector": "央企红利"
+  },
+  {
+    "code": "561580",
+    "name": "央企红利ETF华泰柏瑞",
+    "market": "sh",
+    "track": "央企红利",
+    "data_days": 775,
+    "last_amount": 76824632,
+    "data_ok": true,
+    "sector": "央企红利"
+  },
+  {
+    "code": "159336",
+    "name": "央企红利ETF融通",
+    "market": "sh",
+    "track": "央企红利融通",
+    "data_days": 364,
+    "last_amount": 7342618,
+    "data_ok": true,
+    "sector": "央企红利融通"
+  },
+  {
+    "code": "512960",
+    "name": "央企结构调整ETF博时",
+    "market": "sh",
+    "track": "央企结构调整",
+    "data_days": 1831,
+    "last_amount": 5618071,
+    "data_ok": true,
+    "sector": "央企结构调整"
+  },
+  {
+    "code": "561790",
+    "name": "央企能源ETF博时",
+    "market": "sh",
+    "track": "央企能源",
+    "data_days": 726,
+    "last_amount": 969712,
+    "data_ok": true,
+    "sector": "央企能源"
+  },
+  {
+    "code": "562850",
+    "name": "央企能源ETF嘉实",
+    "market": "sh",
+    "track": "央企能源",
+    "data_days": 726,
+    "last_amount": 8841898,
+    "data_ok": true,
+    "sector": "央企能源"
+  },
+  {
+    "code": "159965",
+    "name": "央视50ETF国联",
+    "market": "sh",
+    "track": "央视50",
+    "data_days": 1769,
+    "last_amount": 101438,
+    "data_ok": true,
+    "sector": "央视50"
+  },
+  {
+    "code": "515730",
+    "name": "家居家电ETF永赢",
+    "market": "sh",
+    "track": "家居家电永赢",
+    "data_days": 171,
+    "last_amount": 1074878,
+    "data_ok": true,
+    "sector": "家居家电永赢"
+  },
+  {
+    "code": "159996",
+    "name": "家电ETF国泰",
+    "market": "sh",
+    "track": "家电",
+    "data_days": 1553,
+    "last_amount": 48750808,
+    "data_ok": true,
+    "sector": "家电"
+  },
+  {
+    "code": "560880",
+    "name": "家电ETF广发",
+    "market": "sh",
+    "track": "家电",
+    "data_days": 1050,
+    "last_amount": 17102880,
+    "data_ok": true,
+    "sector": "家电"
+  },
+  {
+    "code": "512550",
+    "name": "富时A50ETF嘉实",
+    "market": "sh",
+    "track": "富时A50",
+    "data_days": 2186,
+    "last_amount": 9517368,
+    "data_ok": true,
+    "sector": "富时A50"
+  },
+  {
+    "code": "512150",
+    "name": "富时A50ETF汇安",
+    "market": "sh",
+    "track": "富时A50汇安",
+    "data_days": 1830,
+    "last_amount": 415824,
+    "data_ok": true,
+    "sector": "富时A50汇安"
+  },
+  {
+    "code": "159778",
+    "name": "工业互联网ETF鹏华",
+    "market": "sh",
+    "track": "工业互联网",
+    "data_days": 1086,
+    "last_amount": 3395325,
+    "data_ok": true,
+    "sector": "工业互联网"
+  },
+  {
+    "code": "159162",
+    "name": "工业有色ETF鹏华",
+    "market": "sh",
+    "track": "工业有色",
+    "data_days": 126,
+    "last_amount": 19408290,
+    "data_ok": true,
+    "sector": "工业有色"
+  },
+  {
+    "code": "560860",
+    "name": "工业有色ETF万家",
+    "market": "sh",
+    "track": "工业有色",
+    "data_days": 827,
+    "last_amount": 509227392,
+    "data_ok": true,
+    "sector": "工业有色"
+  },
+  {
+    "code": "159667",
+    "name": "工业母机ETF国泰",
+    "market": "sh",
+    "track": "工业母机",
+    "data_days": 919,
+    "last_amount": 380192192,
+    "data_ok": true,
+    "sector": "工业母机"
+  },
+  {
+    "code": "159108",
+    "name": "工业软件ETF博时",
+    "market": "sh",
+    "track": "工业软件",
+    "data_days": 172,
+    "last_amount": 4595196,
+    "data_ok": true,
+    "sector": "工业软件"
+  },
+  {
+    "code": "159145",
+    "name": "工业软件ETF广发",
+    "market": "sh",
+    "track": "工业软件",
+    "data_days": 134,
+    "last_amount": 6814501,
+    "data_ok": true,
+    "sector": "工业软件"
+  },
+  {
+    "code": "159138",
+    "name": "工程机械ETF易方达",
+    "market": "sh",
+    "track": "工程机械",
+    "data_days": 138,
+    "last_amount": 18091750,
+    "data_ok": true,
+    "sector": "工程机械"
+  },
+  {
+    "code": "560280",
+    "name": "工程机械ETF广发",
+    "market": "sh",
+    "track": "工程机械",
+    "data_days": 674,
+    "last_amount": 310171296,
+    "data_ok": true,
+    "sector": "工程机械"
+  },
+  {
+    "code": "159100",
+    "name": "巴西ETF华夏",
+    "market": "sh",
+    "track": "巴西",
+    "data_days": 179,
+    "last_amount": 21384372,
+    "data_ok": true,
+    "sector": "巴西"
+  },
+  {
+    "code": "520870",
+    "name": "巴西ETF易方达",
+    "market": "sh",
+    "track": "巴西",
+    "data_days": 179,
+    "last_amount": 22316576,
+    "data_ok": true,
+    "sector": "巴西"
+  },
+  {
+    "code": "563330",
+    "name": "广东2477",
+    "market": "sh",
+    "track": "广东2477",
+    "data_days": 668,
+    "last_amount": 50688332,
+    "data_ok": true,
+    "sector": "广东2477"
+  },
+  {
+    "code": "563660",
+    "name": "广西2439",
+    "market": "sh",
+    "track": "广西2439",
+    "data_days": 329,
+    "last_amount": 56049,
+    "data_ok": true,
+    "sector": "广西2439"
+  },
+  {
+    "code": "159745",
+    "name": "建材ETF国泰",
+    "market": "sh",
+    "track": "建材",
+    "data_days": 1247,
+    "last_amount": 64630732,
+    "data_ok": true,
+    "sector": "建材"
+  },
+  {
+    "code": "516750",
+    "name": "建材ETF富国",
+    "market": "sh",
+    "track": "建材",
+    "data_days": 1154,
+    "last_amount": 10823662,
+    "data_ok": true,
+    "sector": "建材"
+  },
+  {
+    "code": "517850",
+    "name": "张江ETF汇添富",
+    "market": "sh",
+    "track": "张江",
+    "data_days": 1029,
+    "last_amount": 807999,
+    "data_ok": true,
+    "sector": "张江"
+  },
+  {
+    "code": "159855",
+    "name": "影视ETF银华",
+    "market": "sh",
+    "track": "影视",
+    "data_days": 1322,
+    "last_amount": 9940552,
+    "data_ok": true,
+    "sector": "影视"
+  },
+  {
+    "code": "516620",
+    "name": "影视ETF国泰",
+    "market": "sh",
+    "track": "影视",
+    "data_days": 1154,
+    "last_amount": 25476796,
+    "data_ok": true,
+    "sector": "影视"
+  },
+  {
+    "code": "159561",
+    "name": "德国ETF嘉实",
+    "market": "sh",
+    "track": "德国",
+    "data_days": 547,
+    "last_amount": 62492520,
+    "data_ok": true,
+    "sector": "德国"
+  },
+  {
+    "code": "513030",
+    "name": "德国ETF华安",
+    "market": "sh",
+    "track": "德国",
+    "data_days": 2896,
+    "last_amount": 101338416,
+    "data_ok": true,
+    "sector": "德国"
+  },
+  {
+    "code": "159312",
+    "name": "恒指港股通ETF广发",
+    "market": "sh",
+    "track": "恒指港股通",
+    "data_days": 425,
+    "last_amount": 2432004,
+    "data_ok": true,
+    "sector": "恒指港股通"
+  },
+  {
+    "code": "520770",
+    "name": "恒指港股通ETF建信",
+    "market": "sh",
+    "track": "恒指港股通",
+    "data_days": 129,
+    "last_amount": 4418843,
+    "data_ok": true,
+    "sector": "恒指港股通"
+  },
+  {
+    "code": "159920",
+    "name": "恒生ETF华夏",
+    "market": "sh",
+    "track": "恒生",
+    "data_days": 3352,
+    "last_amount": 1220241664,
+    "data_ok": true,
+    "sector": "恒生"
+  },
+  {
+    "code": "513660",
+    "name": "恒生ETF华夏",
+    "market": "sh",
+    "track": "恒生",
+    "data_days": 2803,
+    "last_amount": 181532896,
+    "data_ok": true,
+    "sector": "恒生"
+  },
+  {
+    "code": "159109",
+    "name": "恒生50ETF景顺",
+    "market": "sh",
+    "track": "恒生50",
+    "data_days": 203,
+    "last_amount": 17408262,
+    "data_ok": true,
+    "sector": "恒生50"
+  },
+  {
+    "code": "159960",
+    "name": "恒生中国企业ETF平安",
+    "market": "sh",
+    "track": "恒生中国企业",
+    "data_days": 1889,
+    "last_amount": 4638947,
+    "data_ok": true,
+    "sector": "恒生中国企业"
+  },
+  {
+    "code": "510900",
+    "name": "恒生中国企业ETF易方达",
+    "market": "sh",
+    "track": "恒生中国企业",
+    "data_days": 3352,
+    "last_amount": 126432048,
+    "data_ok": true,
+    "sector": "恒生中国企业"
+  },
+  {
+    "code": "159202",
+    "name": "恒生互联网ETF万家",
+    "market": "sh",
+    "track": "恒生互联网",
+    "data_days": 320,
+    "last_amount": 126668008,
+    "data_ok": true,
+    "sector": "恒生互联网"
+  },
+  {
+    "code": "513330",
+    "name": "恒生互联网ETF华夏",
+    "market": "sh",
+    "track": "恒生互联网",
+    "data_days": 1331,
+    "last_amount": 1682740864,
+    "data_ok": true,
+    "sector": "恒生互联网"
+  },
+  {
+    "code": "520500",
+    "name": "恒生创新药ETF华泰柏瑞",
+    "market": "sh",
+    "track": "恒生创新药",
+    "data_days": 390,
+    "last_amount": 2252211456,
+    "data_ok": true,
+    "sector": "恒生创新药"
+  },
+  {
+    "code": "159303",
+    "name": "恒生医疗ETF大成",
+    "market": "sh",
+    "track": "恒生医疗",
+    "data_days": 513,
+    "last_amount": 169719424,
+    "data_ok": true,
+    "sector": "恒生医疗"
+  },
+  {
+    "code": "513060",
+    "name": "恒生医疗ETF博时",
+    "market": "sh",
+    "track": "恒生医疗",
+    "data_days": 1301,
+    "last_amount": 1151094016,
+    "data_ok": true,
+    "sector": "恒生医疗"
+  },
+  {
+    "code": "159892",
+    "name": "恒生医药ETF华夏",
+    "market": "sh",
+    "track": "恒生医药",
+    "data_days": 1167,
+    "last_amount": 1065655744,
+    "data_ok": true,
+    "sector": "恒生医药"
+  },
+  {
+    "code": "159850",
+    "name": "恒生国企ETF华夏",
+    "market": "sh",
+    "track": "恒生国企",
+    "data_days": 1327,
+    "last_amount": 8225212,
+    "data_ok": true,
+    "sector": "恒生国企"
+  },
+  {
+    "code": "513170",
+    "name": "恒生央企ETF鹏华",
+    "market": "sh",
+    "track": "恒生央企",
+    "data_days": 559,
+    "last_amount": 2872025,
+    "data_ok": true,
+    "sector": "恒生央企"
+  },
+  {
+    "code": "159699",
+    "name": "恒生消费ETF广发",
+    "market": "sh",
+    "track": "恒生消费",
+    "data_days": 716,
+    "last_amount": 15907694,
+    "data_ok": true,
+    "sector": "恒生消费"
+  },
+  {
+    "code": "513970",
+    "name": "恒生消费ETF景顺",
+    "market": "sh",
+    "track": "恒生消费",
+    "data_days": 799,
+    "last_amount": 56626872,
+    "data_ok": true,
+    "sector": "恒生消费"
+  },
+  {
+    "code": "159105",
+    "name": "恒生生物科技ETF易方达",
+    "market": "sh",
+    "track": "恒生生物科技",
+    "data_days": 187,
+    "last_amount": 181092288,
+    "data_ok": true,
+    "sector": "恒生生物科技"
+  },
+  {
+    "code": "159615",
+    "name": "恒生生物科技ETF南方",
+    "market": "sh",
+    "track": "恒生生物科技",
+    "data_days": 999,
+    "last_amount": 264970480,
+    "data_ok": true,
+    "sector": "恒生生物科技"
+  },
+  {
+    "code": "513130",
+    "name": "恒生科技ETF华泰柏瑞",
+    "market": "sh",
+    "track": "恒生科技",
+    "data_days": 1259,
+    "last_amount": 1793216896,
+    "data_ok": true,
+    "sector": "恒生科技"
+  },
+  {
+    "code": "513180",
+    "name": "恒生科技ETF华夏",
+    "market": "sh",
+    "track": "恒生科技",
+    "data_days": 1264,
+    "last_amount": 1923387136,
+    "data_ok": true,
+    "sector": "恒生科技"
+  },
+  {
+    "code": "513950",
+    "name": "恒生红利ETF富国",
+    "market": "sh",
+    "track": "恒生红利",
+    "data_days": 794,
+    "last_amount": 165253760,
+    "data_ok": true,
+    "sector": "恒生红利"
+  },
+  {
+    "code": "159259",
+    "name": "成长ETF易方达",
+    "market": "sh",
+    "track": "成长",
+    "data_days": 228,
+    "last_amount": 729150784,
+    "data_ok": true,
+    "sector": "成长"
+  },
+  {
+    "code": "512770",
+    "name": "战略新兴ETF华夏",
+    "market": "sh",
+    "track": "战略新兴",
+    "data_days": 1934,
+    "last_amount": 7080789,
+    "data_ok": true,
+    "sector": "战略新兴"
+  },
+  {
+    "code": "512200",
+    "name": "房地产ETF南方",
+    "market": "sh",
+    "track": "房地产",
+    "data_days": 2151,
+    "last_amount": 83652184,
+    "data_ok": true,
+    "sector": "房地产"
+  },
+  {
+    "code": "515060",
+    "name": "房地产ETF华夏",
+    "market": "sh",
+    "track": "房地产",
+    "data_days": 1598,
+    "last_amount": 37710984,
+    "data_ok": true,
+    "sector": "房地产"
+  },
+  {
+    "code": "513360",
+    "name": "教育ETF博时",
+    "market": "sh",
+    "track": "教育",
+    "data_days": 1248,
+    "last_amount": 79976976,
+    "data_ok": true,
+    "sector": "教育"
+  },
+  {
+    "code": "159385",
+    "name": "数字经济ETF富国",
+    "market": "sh",
+    "track": "数字经济",
+    "data_days": 291,
+    "last_amount": 10442805,
+    "data_ok": true,
+    "sector": "数字经济"
+  },
+  {
+    "code": "159389",
+    "name": "数字经济ETF嘉实",
+    "market": "sh",
+    "track": "数字经济",
+    "data_days": 291,
+    "last_amount": 17592314,
+    "data_ok": true,
+    "sector": "数字经济"
+  },
+  {
+    "code": "560800",
+    "name": "数字经济ETF鹏扬",
+    "market": "sh",
+    "track": "数字经济鹏扬",
+    "data_days": 1110,
+    "last_amount": 9157850,
+    "data_ok": true,
+    "sector": "数字经济鹏扬"
+  },
+  {
+    "code": "520580",
+    "name": "新兴亚洲ETF招商",
+    "market": "sh",
+    "track": "新兴亚洲",
+    "data_days": 358,
+    "last_amount": 4565953,
+    "data_ok": true,
+    "sector": "新兴亚洲"
+  },
+  {
+    "code": "159703",
+    "name": "新材料ETF天弘",
+    "market": "sh",
+    "track": "新材料",
+    "data_days": 1254,
+    "last_amount": 9764456,
+    "data_ok": true,
+    "sector": "新材料"
+  },
+  {
+    "code": "159761",
+    "name": "新材料ETF国泰",
+    "market": "sh",
+    "track": "新材料",
+    "data_days": 1128,
+    "last_amount": 14786184,
+    "data_ok": true,
+    "sector": "新材料"
+  },
+  {
+    "code": "159822",
+    "name": "新经济ETF银华",
+    "market": "sh",
+    "track": "新经济",
+    "data_days": 1406,
+    "last_amount": 3108445,
+    "data_ok": true,
+    "sector": "新经济"
+  },
+  {
+    "code": "159875",
+    "name": "新能源ETF嘉实",
+    "market": "sh",
+    "track": "新能源",
+    "data_days": 1205,
+    "last_amount": 48735332,
+    "data_ok": true,
+    "sector": "新能源"
+  },
+  {
+    "code": "516160",
+    "name": "新能源ETF南方",
+    "market": "sh",
+    "track": "新能源",
+    "data_days": 1333,
+    "last_amount": 156310896,
+    "data_ok": true,
+    "sector": "新能源"
+  },
+  {
+    "code": "159752",
+    "name": "新能源ETF申万菱信",
+    "market": "sh",
+    "track": "新能源申万菱信",
+    "data_days": 1219,
+    "last_amount": 5662718,
+    "data_ok": true,
+    "sector": "新能源申万菱信"
+  },
+  {
+    "code": "515030",
+    "name": "新能源车ETF华夏",
+    "market": "sh",
+    "track": "新能源车",
+    "data_days": 1561,
+    "last_amount": 149153136,
+    "data_ok": true,
+    "sector": "新能源车"
+  },
+  {
+    "code": "515700",
+    "name": "新能源车ETF平安",
+    "market": "sh",
+    "track": "新能源车",
+    "data_days": 1578,
+    "last_amount": 31413596,
+    "data_ok": true,
+    "sector": "新能源车"
+  },
+  {
+    "code": "159637",
+    "name": "新能源车ETF东财",
+    "market": "sh",
+    "track": "新能源车东财",
+    "data_days": 952,
+    "last_amount": 11019015,
+    "data_ok": true,
+    "sector": "新能源车东财"
+  },
+  {
+    "code": "159766",
+    "name": "旅游ETF富国",
+    "market": "sh",
+    "track": "旅游",
+    "data_days": 1222,
+    "last_amount": 244503952,
+    "data_ok": true,
+    "sector": "旅游"
+  },
+  {
+    "code": "562510",
+    "name": "旅游ETF华夏",
+    "market": "sh",
+    "track": "旅游",
+    "data_days": 1115,
+    "last_amount": 39313564,
+    "data_ok": true,
+    "sector": "旅游"
+  },
+  {
+    "code": "513800",
+    "name": "日本东证指数ETF南方",
+    "market": "sh",
+    "track": "日本东证",
+    "data_days": 1729,
+    "last_amount": 72568488,
+    "data_ok": true,
+    "sector": "日本东证"
+  },
+  {
+    "code": "159866",
+    "name": "日经ETF工银",
+    "market": "sh",
+    "track": "日经",
+    "data_days": 1294,
+    "last_amount": 345795040,
+    "data_ok": true,
+    "sector": "日经"
+  },
+  {
+    "code": "513520",
+    "name": "日经ETF华夏",
+    "market": "sh",
+    "track": "日经",
+    "data_days": 1729,
+    "last_amount": 355829664,
+    "data_ok": true,
+    "sector": "日经"
+  },
+  {
+    "code": "513000",
+    "name": "日经225ETF易方达",
+    "market": "sh",
+    "track": "日经225",
+    "data_days": 1729,
+    "last_amount": 223999376,
+    "data_ok": true,
+    "sector": "日经225"
+  },
+  {
+    "code": "513880",
+    "name": "日经225ETF华安",
+    "market": "sh",
+    "track": "日经225",
+    "data_days": 1729,
+    "last_amount": 248443328,
+    "data_ok": true,
+    "sector": "日经225"
+  },
+  {
+    "code": "516800",
+    "name": "智能制造ETF华宝",
+    "market": "sh",
+    "track": "智能制造",
+    "data_days": 1327,
+    "last_amount": 13776376,
+    "data_ok": true,
+    "sector": "智能制造"
+  },
+  {
+    "code": "159888",
+    "name": "智能汽车ETF华夏",
+    "market": "sh",
+    "track": "智能汽车",
+    "data_days": 1266,
+    "last_amount": 15412835,
+    "data_ok": true,
+    "sector": "智能汽车"
+  },
+  {
+    "code": "515250",
+    "name": "智能汽车ETF富国",
+    "market": "sh",
+    "track": "智能汽车",
+    "data_days": 1352,
+    "last_amount": 19276184,
+    "data_ok": true,
+    "sector": "智能汽车"
+  },
+  {
+    "code": "515920",
+    "name": "智能消费ETF博时",
+    "market": "sh",
+    "track": "智能消费",
+    "data_days": 1344,
+    "last_amount": 3332121,
+    "data_ok": true,
+    "sector": "智能消费"
+  },
+  {
+    "code": "516380",
+    "name": "智能电动车ETF华宝",
+    "market": "sh",
+    "track": "智能电动车",
+    "data_days": 1247,
+    "last_amount": 998779,
+    "data_ok": true,
+    "sector": "智能电动车"
+  },
+  {
+    "code": "159872",
+    "name": "智能网联汽车ETF鹏华",
+    "market": "sh",
+    "track": "智能网联汽车",
+    "data_days": 1238,
+    "last_amount": 860037,
+    "data_ok": true,
+    "sector": "智能网联汽车"
+  },
+  {
+    "code": "159720",
+    "name": "智能车ETF泰康",
+    "market": "sh",
+    "track": "智能车",
+    "data_days": 1225,
+    "last_amount": 1150489,
+    "data_ok": true,
+    "sector": "智能车"
+  },
+  {
+    "code": "516520",
+    "name": "智能驾驶ETF华泰柏瑞",
+    "market": "sh",
+    "track": "智能驾驶",
+    "data_days": 1321,
+    "last_amount": 40006664,
+    "data_ok": true,
+    "sector": "智能驾驶"
+  },
+  {
+    "code": "159652",
+    "name": "有色ETF汇添富",
+    "market": "sh",
+    "track": "有色",
+    "data_days": 850,
+    "last_amount": 256524640,
+    "data_ok": true,
+    "sector": "有色"
+  },
+  {
+    "code": "159980",
+    "name": "有色ETF大成",
+    "market": "sh",
+    "track": "有色",
+    "data_days": 1605,
+    "last_amount": 419576960,
+    "data_ok": true,
+    "sector": "有色"
+  },
+  {
+    "code": "159690",
+    "name": "有色矿业ETF招商",
+    "market": "sh",
+    "track": "有色矿业",
+    "data_days": 749,
+    "last_amount": 34982284,
+    "data_ok": true,
+    "sector": "有色矿业"
+  },
+  {
+    "code": "512400",
+    "name": "有色金属ETF南方",
+    "market": "sh",
+    "track": "有色金属",
+    "data_days": 2167,
+    "last_amount": 1289271296,
+    "data_ok": true,
+    "sector": "有色金属"
+  },
+  {
+    "code": "516650",
+    "name": "有色金属ETF华夏",
+    "market": "sh",
+    "track": "有色金属",
+    "data_days": 1246,
+    "last_amount": 379333504,
+    "data_ok": true,
+    "sector": "有色金属"
+  },
+  {
+    "code": "159530",
+    "name": "机器人ETF易方达",
+    "market": "sh",
+    "track": "机器人",
+    "data_days": 617,
+    "last_amount": 928329024,
+    "data_ok": true,
+    "sector": "机器人"
+  },
+  {
+    "code": "562500",
+    "name": "机器人ETF华夏",
+    "market": "sh",
+    "track": "机器人",
+    "data_days": 1116,
+    "last_amount": 742369920,
+    "data_ok": true,
+    "sector": "机器人"
+  },
+  {
+    "code": "159663",
+    "name": "机床ETF华夏",
+    "market": "sh",
+    "track": "机床",
+    "data_days": 919,
+    "last_amount": 91783376,
+    "data_ok": true,
+    "sector": "机床"
+  },
+  {
+    "code": "159886",
+    "name": "机械ETF富国",
+    "market": "sh",
+    "track": "机械",
+    "data_days": 1280,
+    "last_amount": 3451411,
+    "data_ok": true,
+    "sector": "机械"
+  },
+  {
+    "code": "516960",
+    "name": "机械ETF国泰",
+    "market": "sh",
+    "track": "机械",
+    "data_days": 1276,
+    "last_amount": 627217,
+    "data_ok": true,
+    "sector": "机械"
+  },
+  {
+    "code": "159944",
+    "name": "材料ETF广发",
+    "market": "sh",
+    "track": "材料",
+    "data_days": 2671,
+    "last_amount": 10238834,
+    "data_ok": true,
+    "sector": "材料"
+  },
+  {
+    "code": "513500",
+    "name": "标普500ETF博时",
+    "market": "sh",
+    "track": "标普500",
+    "data_days": 3054,
+    "last_amount": 468173728,
+    "data_ok": true,
+    "sector": "标普500"
+  },
+  {
+    "code": "513650",
+    "name": "标普500ETF南方",
+    "market": "sh",
+    "track": "标普500",
+    "data_days": 811,
+    "last_amount": 234467424,
+    "data_ok": true,
+    "sector": "标普500"
+  },
+  {
+    "code": "562060",
+    "name": "标普A股红利ETF华宝",
+    "market": "sh",
+    "track": "标普A股红利",
+    "data_days": 631,
+    "last_amount": 42421912,
+    "data_ok": true,
+    "sector": "标普A股红利"
+  },
+  {
+    "code": "159518",
+    "name": "标普油气ETF嘉实",
+    "market": "sh",
+    "track": "标普油气",
+    "data_days": 660,
+    "last_amount": 365126880,
+    "data_ok": true,
+    "sector": "标普油气"
+  },
+  {
+    "code": "513350",
+    "name": "标普油气ETF富国",
+    "market": "sh",
+    "track": "标普油气",
+    "data_days": 653,
+    "last_amount": 506761312,
+    "data_ok": true,
+    "sector": "标普油气"
+  },
+  {
+    "code": "159529",
+    "name": "标普消费ETF景顺",
+    "market": "sh",
+    "track": "标普消费",
+    "data_days": 602,
+    "last_amount": 22664174,
+    "data_ok": true,
+    "sector": "标普消费"
+  },
+  {
+    "code": "159502",
+    "name": "标普生物科技ETF嘉实",
+    "market": "sh",
+    "track": "标普生物科技",
+    "data_days": 623,
+    "last_amount": 207738736,
+    "data_ok": true,
+    "sector": "标普生物科技"
+  },
+  {
+    "code": "159106",
+    "name": "民企300ETF前海开源",
+    "market": "sh",
+    "track": "民企300",
+    "data_days": 195,
+    "last_amount": 4690357,
+    "data_ok": true,
+    "sector": "民企300"
+  },
+  {
+    "code": "159973",
+    "name": "民企ETF弘毅远方",
+    "market": "sh",
+    "track": "民企弘毅远方",
+    "data_days": 1684,
+    "last_amount": 565066,
+    "data_ok": true,
+    "sector": "民企弘毅远方"
+  },
+  {
+    "code": "159512",
+    "name": "汽车ETF广发",
+    "market": "sh",
+    "track": "汽车",
+    "data_days": 737,
+    "last_amount": 19729936,
+    "data_ok": true,
+    "sector": "汽车"
+  },
+  {
+    "code": "516110",
+    "name": "汽车ETF国泰",
+    "market": "sh",
+    "track": "汽车",
+    "data_days": 1276,
+    "last_amount": 34865200,
+    "data_ok": true,
+    "sector": "汽车"
+  },
+  {
+    "code": "159565",
+    "name": "汽车零部件ETF易方达",
+    "market": "sh",
+    "track": "汽车零部件",
+    "data_days": 596,
+    "last_amount": 26046060,
+    "data_ok": true,
+    "sector": "汽车零部件"
+  },
+  {
+    "code": "562700",
+    "name": "汽车零部件ETF华夏",
+    "market": "sh",
+    "track": "汽车零部件",
+    "data_days": 545,
+    "last_amount": 15532933,
+    "data_ok": true,
+    "sector": "汽车零部件"
+  },
+  {
+    "code": "159329",
+    "name": "沙特ETF南方",
+    "market": "sh",
+    "track": "沙特",
+    "data_days": 497,
+    "last_amount": 8149017,
+    "data_ok": true,
+    "sector": "沙特"
+  },
+  {
+    "code": "520830",
+    "name": "沙特ETF华泰柏瑞",
+    "market": "sh",
+    "track": "沙特",
+    "data_days": 501,
+    "last_amount": 9304627,
+    "data_ok": true,
+    "sector": "沙特"
+  },
+  {
+    "code": "159919",
+    "name": "沪深300ETF嘉实",
+    "market": "sh",
+    "track": "沪深300",
+    "data_days": 3449,
+    "last_amount": 927014144,
+    "data_ok": true,
+    "sector": "沪深300"
+  },
+  {
+    "code": "510300",
+    "name": "沪深300ETF华泰柏瑞",
+    "market": "sh",
+    "track": "沪深300",
+    "data_days": 3451,
+    "last_amount": 4474693120,
+    "data_ok": true,
+    "sector": "沪深300"
+  },
+  {
+    "code": "517950",
+    "name": "沪深港科技50ETF交银",
+    "market": "sh",
+    "track": "沪深港科技50",
+    "data_days": 154,
+    "last_amount": 9110316,
+    "data_ok": true,
+    "sector": "沪深港科技50"
+  },
+  {
+    "code": "517030",
+    "name": "沪港深300ETF易方达",
+    "market": "sh",
+    "track": "沪港深300",
+    "data_days": 1178,
+    "last_amount": 262609,
+    "data_ok": true,
+    "sector": "沪港深300"
+  },
+  {
+    "code": "517300",
+    "name": "沪港深300ETF国寿",
+    "market": "sh",
+    "track": "沪港深300国寿",
+    "data_days": 1324,
+    "last_amount": 1497500,
+    "data_ok": true,
+    "sector": "沪港深300国寿"
+  },
+  {
+    "code": "517010",
+    "name": "沪港深500ETF易方达",
+    "market": "sh",
+    "track": "沪港深500",
+    "data_days": 1208,
+    "last_amount": 2692885,
+    "data_ok": true,
+    "sector": "沪港深500"
+  },
+  {
+    "code": "517080",
+    "name": "沪港深500ETF汇添富",
+    "market": "sh",
+    "track": "沪港深500",
+    "data_days": 1326,
+    "last_amount": 1487439,
+    "data_ok": true,
+    "sector": "沪港深500"
+  },
+  {
+    "code": "517990",
+    "name": "沪港深医药ETF招商",
+    "market": "sh",
+    "track": "沪港深医药",
+    "data_days": 1026,
+    "last_amount": 3367445,
+    "data_ok": true,
+    "sector": "沪港深医药"
+  },
+  {
+    "code": "517550",
+    "name": "沪港深消费龙头ETF招商",
+    "market": "sh",
+    "track": "沪港深消费龙头",
+    "data_days": 1093,
+    "last_amount": 5944198,
+    "data_ok": true,
+    "sector": "沪港深消费龙头"
+  },
+  {
+    "code": "517350",
+    "name": "沪港深科技ETF广发",
+    "market": "sh",
+    "track": "沪港深科技",
+    "data_days": 1257,
+    "last_amount": 330174,
+    "data_ok": true,
+    "sector": "沪港深科技"
+  },
+  {
+    "code": "517360",
+    "name": "沪港深科技ETF华安",
+    "market": "sh",
+    "track": "沪港深科技",
+    "data_days": 1236,
+    "last_amount": 192523,
+    "data_ok": true,
+    "sector": "沪港深科技"
+  },
+  {
+    "code": "159309",
+    "name": "油气ETF汇添富",
+    "market": "sh",
+    "track": "油气",
+    "data_days": 521,
+    "last_amount": 37000164,
+    "data_ok": true,
+    "sector": "油气"
+  },
+  {
+    "code": "561570",
+    "name": "油气ETF华泰柏瑞",
+    "market": "sh",
+    "track": "油气",
+    "data_days": 441,
+    "last_amount": 20650846,
+    "data_ok": true,
+    "sector": "油气"
+  },
+  {
+    "code": "513080",
+    "name": "法国ETF华安",
+    "market": "sh",
+    "track": "法国",
+    "data_days": 1493,
+    "last_amount": 48229736,
+    "data_ok": true,
+    "sector": "法国"
+  },
+  {
+    "code": "512190",
+    "name": "浙商之江凤凰ETF",
+    "market": "sh",
+    "track": "浙商之江凤凰",
+    "data_days": 1675,
+    "last_amount": 779795,
+    "data_ok": true,
+    "sector": "浙商之江凤凰"
+  },
+  {
+    "code": "515760",
+    "name": "浙江国资ETF华夏",
+    "market": "sh",
+    "track": "浙江国资",
+    "data_days": 1415,
+    "last_amount": 5136062,
+    "data_ok": true,
+    "sector": "浙江国资"
+  },
+  {
+    "code": "563500",
+    "name": "海南2452",
+    "market": "sh",
+    "track": "海南2452",
+    "data_days": 409,
+    "last_amount": 14792284,
+    "data_ok": true,
+    "sector": "海南2452"
+  },
+  {
+    "code": "561310",
+    "name": "消电ETF国泰",
+    "market": "sh",
+    "track": "消电",
+    "data_days": 1140,
+    "last_amount": 10746963,
+    "data_ok": true,
+    "sector": "消电"
+  },
+  {
+    "code": "159928",
+    "name": "消费ETF汇添富",
+    "market": "sh",
+    "track": "消费",
+    "data_days": 3133,
+    "last_amount": 370157568,
+    "data_ok": true,
+    "sector": "消费"
+  },
+  {
+    "code": "510150",
+    "name": "消费ETF招商",
+    "market": "sh",
+    "track": "消费",
+    "data_days": 3755,
+    "last_amount": 54732132,
+    "data_ok": true,
+    "sector": "消费"
+  },
+  {
+    "code": "515650",
+    "name": "消费50ETF富国",
+    "market": "sh",
+    "track": "消费50",
+    "data_days": 1636,
+    "last_amount": 69622928,
+    "data_ok": true,
+    "sector": "消费50"
+  },
+  {
+    "code": "159670",
+    "name": "消费50ETF国联安",
+    "market": "sh",
+    "track": "消费50国联安",
+    "data_days": 790,
+    "last_amount": 1276918,
+    "data_ok": true,
+    "sector": "消费50国联安"
+  },
+  {
+    "code": "516600",
+    "name": "消费服务ETF工银",
+    "market": "sh",
+    "track": "消费服务",
+    "data_days": 1322,
+    "last_amount": 1058625,
+    "data_ok": true,
+    "sector": "消费服务"
+  },
+  {
+    "code": "159732",
+    "name": "消费电子ETF华夏",
+    "market": "sh",
+    "track": "消费电子",
+    "data_days": 1201,
+    "last_amount": 456976768,
+    "data_ok": true,
+    "sector": "消费电子"
+  },
+  {
+    "code": "562950",
+    "name": "消费电子ETF易方达",
+    "market": "sh",
+    "track": "消费电子",
+    "data_days": 1101,
+    "last_amount": 98524424,
+    "data_ok": true,
+    "sector": "消费电子"
+  },
+  {
+    "code": "159520",
+    "name": "消费龙头ETF工银",
+    "market": "sh",
+    "track": "消费龙头",
+    "data_days": 673,
+    "last_amount": 8666452,
+    "data_ok": true,
+    "sector": "消费龙头"
+  },
+  {
+    "code": "516130",
+    "name": "消费龙头ETF华宝",
+    "market": "sh",
+    "track": "消费龙头",
+    "data_days": 1171,
+    "last_amount": 9483805,
+    "data_ok": true,
+    "sector": "消费龙头"
+  },
+  {
+    "code": "159212",
+    "name": "深100ETF南方",
+    "market": "sh",
+    "track": "深100",
+    "data_days": 325,
+    "last_amount": 26602506,
+    "data_ok": true,
+    "sector": "深100"
+  },
+  {
+    "code": "159975",
+    "name": "深100ETF招商",
+    "market": "sh",
+    "track": "深100",
+    "data_days": 1599,
+    "last_amount": 4947443,
+    "data_ok": true,
+    "sector": "深100"
+  },
+  {
+    "code": "159961",
+    "name": "深100ETF方正富邦",
+    "market": "sh",
+    "track": "深100方正富邦",
+    "data_days": 1835,
+    "last_amount": 4654034,
+    "data_ok": true,
+    "sector": "深100方正富邦"
+  },
+  {
+    "code": "159912",
+    "name": "深300ETF汇添富",
+    "market": "sh",
+    "track": "深300",
+    "data_days": 3569,
+    "last_amount": 3060514,
+    "data_ok": true,
+    "sector": "深300"
+  },
+  {
+    "code": "159913",
+    "name": "深价值ETF交银",
+    "market": "sh",
+    "track": "深价值",
+    "data_days": 3467,
+    "last_amount": 336111,
+    "data_ok": true,
+    "sector": "深价值"
+  },
+  {
+    "code": "563990",
+    "name": "深圳2505",
+    "market": "sh",
+    "track": "深圳2505",
+    "data_days": 314,
+    "last_amount": 2001844,
+    "data_ok": true,
+    "sector": "深圳2505"
+  },
+  {
+    "code": "159903",
+    "name": "深成ETF南方",
+    "market": "sh",
+    "track": "深成",
+    "data_days": 4009,
+    "last_amount": 70566840,
+    "data_ok": true,
+    "sector": "深成"
+  },
+  {
+    "code": "159906",
+    "name": "深成长ETF大成",
+    "market": "sh",
+    "track": "深成长",
+    "data_days": 3715,
+    "last_amount": 17888512,
+    "data_ok": true,
+    "sector": "深成长"
+  },
+  {
+    "code": "159576",
+    "name": "深证100ETF广发",
+    "market": "sh",
+    "track": "深证100",
+    "data_days": 628,
+    "last_amount": 7371383,
+    "data_ok": true,
+    "sector": "深证100"
+  },
+  {
+    "code": "159901",
+    "name": "深证100ETF易方达",
+    "market": "sh",
+    "track": "深证100",
+    "data_days": 4929,
+    "last_amount": 374435872,
+    "data_ok": true,
+    "sector": "深证100"
+  },
+  {
+    "code": "159721",
+    "name": "深证100ETF永赢",
+    "market": "sh",
+    "track": "深证100永赢",
+    "data_days": 1238,
+    "last_amount": 4486538,
+    "data_ok": true,
+    "sector": "深证100永赢"
+  },
+  {
+    "code": "159219",
+    "name": "深证100ETF融通",
+    "market": "sh",
+    "track": "深证100融通",
+    "data_days": 304,
+    "last_amount": 1874263,
+    "data_ok": true,
+    "sector": "深证100融通"
+  },
+  {
+    "code": "159150",
+    "name": "深证50ETF易方达",
+    "market": "sh",
+    "track": "深证50",
+    "data_days": 644,
+    "last_amount": 18479612,
+    "data_ok": true,
+    "sector": "深证50"
+  },
+  {
+    "code": "159350",
+    "name": "深证50ETF富国",
+    "market": "sh",
+    "track": "深证50",
+    "data_days": 644,
+    "last_amount": 74168592,
+    "data_ok": true,
+    "sector": "深证50"
+  },
+  {
+    "code": "159943",
+    "name": "深证成指ETF大成",
+    "market": "sh",
+    "track": "深证成指",
+    "data_days": 2694,
+    "last_amount": 41758112,
+    "data_ok": true,
+    "sector": "深证成指"
+  },
+  {
+    "code": "159568",
+    "name": "港股互联网ETF博时",
+    "market": "sh",
+    "track": "港股互联网",
+    "data_days": 595,
+    "last_amount": 114436536,
+    "data_ok": true,
+    "sector": "港股互联网"
+  },
+  {
+    "code": "513770",
+    "name": "港股互联网ETF华宝",
+    "market": "sh",
+    "track": "港股互联网",
+    "data_days": 1085,
+    "last_amount": 367674304,
+    "data_ok": true,
+    "sector": "港股互联网"
+  },
+  {
+    "code": "513630",
+    "name": "港股低波红利ETF摩根",
+    "market": "sh",
+    "track": "港股低波红利",
+    "data_days": 645,
+    "last_amount": 308331552,
+    "data_ok": true,
+    "sector": "港股低波红利"
+  },
+  {
+    "code": "159567",
+    "name": "港股创新药ETF银华",
+    "market": "sh",
+    "track": "港股创新药",
+    "data_days": 622,
+    "last_amount": 1720021504,
+    "data_ok": true,
+    "sector": "港股创新药"
+  },
+  {
+    "code": "513120",
+    "name": "港股创新药ETF广发",
+    "market": "sh",
+    "track": "港股创新药",
+    "data_days": 989,
+    "last_amount": 11149237248,
+    "data_ok": true,
+    "sector": "港股创新药"
+  },
+  {
+    "code": "159366",
+    "name": "港股医疗ETF永赢",
+    "market": "sh",
+    "track": "港股医疗永赢",
+    "data_days": 322,
+    "last_amount": 284075808,
+    "data_ok": true,
+    "sector": "港股医疗永赢"
+  },
+  {
+    "code": "159718",
+    "name": "港股医药ETF平安",
+    "market": "sh",
+    "track": "港股医药",
+    "data_days": 1117,
+    "last_amount": 59798240,
+    "data_ok": true,
+    "sector": "港股医药"
+  },
+  {
+    "code": "159776",
+    "name": "港股医药ETF银华",
+    "market": "sh",
+    "track": "港股医药",
+    "data_days": 1060,
+    "last_amount": 36921472,
+    "data_ok": true,
+    "sector": "港股医药"
+  },
+  {
+    "code": "159519",
+    "name": "港股国企ETF国泰",
+    "market": "sh",
+    "track": "港股国企",
+    "data_days": 710,
+    "last_amount": 35971032,
+    "data_ok": true,
+    "sector": "港股国企"
+  },
+  {
+    "code": "513810",
+    "name": "港股国企ETF华夏",
+    "market": "sh",
+    "track": "港股国企",
+    "data_days": 709,
+    "last_amount": 19714758,
+    "data_ok": true,
+    "sector": "港股国企"
+  },
+  {
+    "code": "159281",
+    "name": "港股央企红利ETF天弘",
+    "market": "sh",
+    "track": "港股央企红利",
+    "data_days": 225,
+    "last_amount": 33869660,
+    "data_ok": true,
+    "sector": "港股央企红利"
+  },
+  {
+    "code": "520990",
+    "name": "港股央企红利ETF景顺",
+    "market": "sh",
+    "track": "港股央企红利",
+    "data_days": 505,
+    "last_amount": 133296704,
+    "data_ok": true,
+    "sector": "港股央企红利"
+  },
+  {
+    "code": "159266",
+    "name": "港股央企红利ETF永赢",
+    "market": "sh",
+    "track": "港股央企红利永赢",
+    "data_days": 247,
+    "last_amount": 12452107,
+    "data_ok": true,
+    "sector": "港股央企红利永赢"
+  },
+  {
+    "code": "159237",
+    "name": "港股汽车ETF工银",
+    "market": "sh",
+    "track": "港股汽车",
+    "data_days": 266,
+    "last_amount": 11896659,
+    "data_ok": true,
+    "sector": "港股汽车"
+  },
+  {
+    "code": "520720",
+    "name": "港股汽车ETF国泰",
+    "market": "sh",
+    "track": "港股汽车",
+    "data_days": 208,
+    "last_amount": 18039332,
+    "data_ok": true,
+    "sector": "港股汽车"
+  },
+  {
+    "code": "159265",
+    "name": "港股消费ETF鹏华",
+    "market": "sh",
+    "track": "港股消费",
+    "data_days": 269,
+    "last_amount": 6860838,
+    "data_ok": true,
+    "sector": "港股消费"
+  },
+  {
+    "code": "159735",
+    "name": "港股消费ETF银华",
+    "market": "sh",
+    "track": "港股消费",
+    "data_days": 1256,
+    "last_amount": 42611004,
+    "data_ok": true,
+    "sector": "港股消费"
+  },
+  {
+    "code": "513160",
+    "name": "港股科技ETF银华",
+    "market": "sh",
+    "track": "港股科技",
+    "data_days": 1092,
+    "last_amount": 178201696,
+    "data_ok": true,
+    "sector": "港股科技"
+  },
+  {
+    "code": "513980",
+    "name": "港股科技ETF景顺",
+    "market": "sh",
+    "track": "港股科技",
+    "data_days": 1237,
+    "last_amount": 210534704,
+    "data_ok": true,
+    "sector": "港股科技"
+  },
+  {
+    "code": "159750",
+    "name": "港股科技50ETF招商",
+    "market": "sh",
+    "track": "港股科技50",
+    "data_days": 1088,
+    "last_amount": 75395944,
+    "data_ok": true,
+    "sector": "港股科技50"
+  },
+  {
+    "code": "159691",
+    "name": "港股红利ETF工银",
+    "market": "sh",
+    "track": "港股红利",
+    "data_days": 799,
+    "last_amount": 237113616,
+    "data_ok": true,
+    "sector": "港股红利"
+  },
+  {
+    "code": "513690",
+    "name": "港股红利ETF博时",
+    "market": "sh",
+    "track": "港股红利",
+    "data_days": 1267,
+    "last_amount": 180166064,
+    "data_ok": true,
+    "sector": "港股红利"
+  },
+  {
+    "code": "513990",
+    "name": "港股通ETF招商",
+    "market": "sh",
+    "track": "港股通",
+    "data_days": 1448,
+    "last_amount": 7582952,
+    "data_ok": true,
+    "sector": "港股通"
+  },
+  {
+    "code": "159788",
+    "name": "港股通100ETF易方达",
+    "market": "sh",
+    "track": "港股通100",
+    "data_days": 1077,
+    "last_amount": 7220869,
+    "data_ok": true,
+    "sector": "港股通100"
+  },
+  {
+    "code": "513900",
+    "name": "港股通100ETF华安",
+    "market": "sh",
+    "track": "港股通100",
+    "data_days": 1992,
+    "last_amount": 6286237,
+    "data_ok": true,
+    "sector": "港股通100"
+  },
+  {
+    "code": "513550",
+    "name": "港股通50ETF华泰柏瑞",
+    "market": "sh",
+    "track": "港股通50",
+    "data_days": 1349,
+    "last_amount": 40157432,
+    "data_ok": true,
+    "sector": "港股通50"
+  },
+  {
+    "code": "520950",
+    "name": "港股通50ETF摩根",
+    "market": "sh",
+    "track": "港股通50",
+    "data_days": 171,
+    "last_amount": 20939864,
+    "data_ok": true,
+    "sector": "港股通50"
+  },
+  {
+    "code": "159792",
+    "name": "港股通互联网ETF富国",
+    "market": "sh",
+    "track": "港股通互联网",
+    "data_days": 1177,
+    "last_amount": 1714368896,
+    "data_ok": true,
+    "sector": "港股通互联网"
+  },
+  {
+    "code": "513040",
+    "name": "港股通互联网ETF易方达",
+    "market": "sh",
+    "track": "港股通互联网",
+    "data_days": 766,
+    "last_amount": 718649152,
+    "data_ok": true,
+    "sector": "港股通互联网"
+  },
+  {
+    "code": "159131",
+    "name": "港股通信息技术ETF华宝",
+    "market": "sh",
+    "track": "港股通信息技术",
+    "data_days": 179,
+    "last_amount": 2187041280,
+    "data_ok": true,
+    "sector": "港股通信息技术"
+  },
+  {
+    "code": "159316",
+    "name": "港股通创新药ETF易方达",
+    "market": "sh",
+    "track": "港股通创新药",
+    "data_days": 334,
+    "last_amount": 1346954624,
+    "data_ok": true,
+    "sector": "港股通创新药"
+  },
+  {
+    "code": "159570",
+    "name": "港股通创新药ETF汇添富",
+    "market": "sh",
+    "track": "港股通创新药",
+    "data_days": 615,
+    "last_amount": 2787180800,
+    "data_ok": true,
+    "sector": "港股通创新药"
+  },
+  {
+    "code": "159506",
+    "name": "港股通创新药医疗ETF富国",
+    "market": "sh",
+    "track": "港股通创新药医疗",
+    "data_days": 753,
+    "last_amount": 743373248,
+    "data_ok": true,
+    "sector": "港股通创新药医疗"
+  },
+  {
+    "code": "159137",
+    "name": "港股通医疗ETF华宝",
+    "market": "sh",
+    "track": "港股通医疗",
+    "data_days": 139,
+    "last_amount": 65502708,
+    "data_ok": true,
+    "sector": "港股通医疗"
+  },
+  {
+    "code": "520510",
+    "name": "港股通医疗ETF华夏",
+    "market": "sh",
+    "track": "港股通医疗",
+    "data_days": 243,
+    "last_amount": 223677664,
+    "data_ok": true,
+    "sector": "港股通医疗"
+  },
+  {
+    "code": "513200",
+    "name": "港股通医药ETF易方达",
+    "market": "sh",
+    "track": "港股通医药",
+    "data_days": 1090,
+    "last_amount": 280212928,
+    "data_ok": true,
+    "sector": "港股通医药"
+  },
+  {
+    "code": "513700",
+    "name": "港股通医药ETF鹏华",
+    "market": "sh",
+    "track": "港股通医药",
+    "data_days": 1212,
+    "last_amount": 283283744,
+    "data_ok": true,
+    "sector": "港股通医药"
+  },
+  {
+    "code": "513910",
+    "name": "港股通央企红利ETF华夏",
+    "market": "sh",
+    "track": "港股通央企红利",
+    "data_days": 591,
+    "last_amount": 135962464,
+    "data_ok": true,
+    "sector": "港股通央企红利"
+  },
+  {
+    "code": "513920",
+    "name": "港股通央企红利ETF华安",
+    "market": "sh",
+    "track": "港股通央企红利",
+    "data_days": 626,
+    "last_amount": 127153720,
+    "data_ok": true,
+    "sector": "港股通央企红利"
+  },
+  {
+    "code": "520940",
+    "name": "港股通恒生ETF华安",
+    "market": "sh",
+    "track": "港股通恒生",
+    "data_days": 286,
+    "last_amount": 6836555,
+    "data_ok": true,
+    "sector": "港股通恒生"
+  },
+  {
+    "code": "520840",
+    "name": "港股通恒生科技ETF华安",
+    "market": "sh",
+    "track": "港股通恒生科技",
+    "data_days": 231,
+    "last_amount": 57843968,
+    "data_ok": true,
+    "sector": "港股通恒生科技"
+  },
+  {
+    "code": "513320",
+    "name": "港股通新经济ETF易方达",
+    "market": "sh",
+    "track": "港股通新经济",
+    "data_days": 1064,
+    "last_amount": 18337094,
+    "data_ok": true,
+    "sector": "港股通新经济"
+  },
+  {
+    "code": "159323",
+    "name": "港股通汽车ETF华夏",
+    "market": "sh",
+    "track": "港股通汽车",
+    "data_days": 383,
+    "last_amount": 161957728,
+    "data_ok": true,
+    "sector": "港股通汽车"
+  },
+  {
+    "code": "520600",
+    "name": "港股通汽车ETF广发",
+    "market": "sh",
+    "track": "港股通汽车",
+    "data_days": 389,
+    "last_amount": 277251968,
+    "data_ok": true,
+    "sector": "港股通汽车"
+  },
+  {
+    "code": "513070",
+    "name": "港股通消费ETF易方达",
+    "market": "sh",
+    "track": "港股通消费",
+    "data_days": 1061,
+    "last_amount": 130683984,
+    "data_ok": true,
+    "sector": "港股通消费"
+  },
+  {
+    "code": "513230",
+    "name": "港股通消费ETF华夏",
+    "market": "sh",
+    "track": "港股通消费",
+    "data_days": 1099,
+    "last_amount": 29184144,
+    "data_ok": true,
+    "sector": "港股通消费"
+  },
+  {
+    "code": "159102",
+    "name": "港股通生物科技ETF华安",
+    "market": "sh",
+    "track": "港股通生物科技",
+    "data_days": 215,
+    "last_amount": 93577176,
+    "data_ok": true,
+    "sector": "港股通生物科技"
+  },
+  {
+    "code": "159262",
+    "name": "港股通科技ETF广发",
+    "market": "sh",
+    "track": "港股通科技",
+    "data_days": 266,
+    "last_amount": 279910016,
+    "data_ok": true,
+    "sector": "港股通科技"
+  },
+  {
+    "code": "520980",
+    "name": "港股通科技ETF汇添富",
+    "market": "sh",
+    "track": "港股通科技",
+    "data_days": 269,
+    "last_amount": 326183424,
+    "data_ok": true,
+    "sector": "港股通科技"
+  },
+  {
+    "code": "159636",
+    "name": "港股通科技30ETF工银",
+    "market": "sh",
+    "track": "港股通科技30",
+    "data_days": 983,
+    "last_amount": 224556768,
+    "data_ok": true,
+    "sector": "港股通科技30"
+  },
+  {
+    "code": "520530",
+    "name": "港股通科技ETF东财",
+    "market": "sh",
+    "track": "港股通科技东财",
+    "data_days": 162,
+    "last_amount": 34875660,
+    "data_ok": true,
+    "sector": "港股通科技东财"
+  },
+  {
+    "code": "159120",
+    "name": "港股通科技ETF国联安",
+    "market": "sh",
+    "track": "港股通科技国联安",
+    "data_days": 179,
+    "last_amount": 15452896,
+    "data_ok": true,
+    "sector": "港股通科技国联安"
+  },
+  {
+    "code": "513530",
+    "name": "港股通红利ETF华泰柏瑞",
+    "market": "sh",
+    "track": "港股通红利",
+    "data_days": 1041,
+    "last_amount": 196753024,
+    "data_ok": true,
+    "sector": "港股通红利"
+  },
+  {
+    "code": "513820",
+    "name": "港股通红利ETF汇添富",
+    "market": "sh",
+    "track": "港股通红利",
+    "data_days": 543,
+    "last_amount": 83084720,
+    "data_ok": true,
+    "sector": "港股通红利"
+  },
+  {
+    "code": "513140",
+    "name": "港股通金融ETF华泰柏瑞",
+    "market": "sh",
+    "track": "港股通金融",
+    "data_days": 864,
+    "last_amount": 43821280,
+    "data_ok": true,
+    "sector": "港股通金融"
+  },
+  {
+    "code": "513190",
+    "name": "港股通金融ETF华夏",
+    "market": "sh",
+    "track": "港股通金融",
+    "data_days": 687,
+    "last_amount": 636017024,
+    "data_ok": true,
+    "sector": "港股通金融"
+  },
+  {
+    "code": "513750",
+    "name": "港股通非银ETF广发",
+    "market": "sh",
+    "track": "港股通非银",
+    "data_days": 654,
+    "last_amount": 619509568,
+    "data_ok": true,
+    "sector": "港股通非银"
+  },
+  {
+    "code": "159726",
+    "name": "港股通高股息ETF华夏",
+    "market": "sh",
+    "track": "港股通高股息",
+    "data_days": 1142,
+    "last_amount": 11915742,
+    "data_ok": true,
+    "sector": "港股通高股息"
+  },
+  {
+    "code": "513830",
+    "name": "港股通高股息ETF嘉实",
+    "market": "sh",
+    "track": "港股通高股息",
+    "data_days": 347,
+    "last_amount": 1851625,
+    "data_ok": true,
+    "sector": "港股通高股息"
+  },
+  {
+    "code": "159302",
+    "name": "港股高股息ETF银华",
+    "market": "sh",
+    "track": "港股高股息",
+    "data_days": 467,
+    "last_amount": 7379184,
+    "data_ok": true,
+    "sector": "港股高股息"
+  },
+  {
+    "code": "159869",
+    "name": "游戏ETF华夏",
+    "market": "sh",
+    "track": "游戏",
+    "data_days": 1317,
+    "last_amount": 863910592,
+    "data_ok": true,
+    "sector": "游戏"
+  },
+  {
+    "code": "516770",
+    "name": "游戏ETF华泰柏瑞",
+    "market": "sh",
+    "track": "游戏",
+    "data_days": 1317,
+    "last_amount": 162265488,
+    "data_ok": true,
+    "sector": "游戏"
+  },
+  {
+    "code": "517770",
+    "name": "游戏传媒ETF浦银",
+    "market": "sh",
+    "track": "游戏传媒",
+    "data_days": 1134,
+    "last_amount": 13889074,
+    "data_ok": true,
+    "sector": "游戏传媒"
+  },
+  {
+    "code": "159743",
+    "name": "湖北ETF博时",
+    "market": "sh",
+    "track": "湖北",
+    "data_days": 1108,
+    "last_amount": 421118,
+    "data_ok": true,
+    "sector": "湖北"
+  },
+  {
+    "code": "561500",
+    "name": "漂亮50ETF华泰柏瑞",
+    "market": "sh",
+    "track": "漂亮50",
+    "data_days": 1241,
+    "last_amount": 994409,
+    "data_ok": true,
+    "sector": "漂亮50"
+  },
+  {
+    "code": "515220",
+    "name": "煤炭ETF国泰",
+    "market": "sh",
+    "track": "煤炭",
+    "data_days": 1563,
+    "last_amount": 1240703872,
+    "data_ok": true,
+    "sector": "煤炭"
+  },
+  {
+    "code": "516530",
+    "name": "物流ETF银华",
+    "market": "sh",
+    "track": "物流",
+    "data_days": 1104,
+    "last_amount": 509677,
+    "data_ok": true,
+    "sector": "物流"
+  },
+  {
+    "code": "516910",
+    "name": "物流ETF富国",
+    "market": "sh",
+    "track": "物流",
+    "data_days": 1251,
+    "last_amount": 14698648,
+    "data_ok": true,
+    "sector": "物流"
+  },
+  {
+    "code": "159895",
+    "name": "物联网ETF易方达",
+    "market": "sh",
+    "track": "物联网",
+    "data_days": 1160,
+    "last_amount": 6243083,
+    "data_ok": true,
+    "sector": "物联网"
+  },
+  {
+    "code": "517660",
+    "name": "物联网ETF天弘",
+    "market": "sh",
+    "track": "物联网",
+    "data_days": 1163,
+    "last_amount": 3906261,
+    "data_ok": true,
+    "sector": "物联网"
+  },
+  {
+    "code": "512580",
+    "name": "环保ETF广发",
+    "market": "sh",
+    "track": "环保",
+    "data_days": 2295,
+    "last_amount": 5034016,
+    "data_ok": true,
+    "sector": "环保"
+  },
+  {
+    "code": "159221",
+    "name": "现金流ETF嘉实",
+    "market": "sh",
+    "track": "现金流",
+    "data_days": 304,
+    "last_amount": 24149012,
+    "data_ok": true,
+    "sector": "现金流"
+  },
+  {
+    "code": "159399",
+    "name": "现金流ETF国泰",
+    "market": "sh",
+    "track": "现金流",
+    "data_days": 353,
+    "last_amount": 335814976,
+    "data_ok": true,
+    "sector": "现金流"
+  },
+  {
+    "code": "516460",
+    "name": "现金流ETF800鹏华",
+    "market": "sh",
+    "track": "现金流800",
+    "data_days": 312,
+    "last_amount": 1576127,
+    "data_ok": true,
+    "sector": "现金流800"
+  },
+  {
+    "code": "561870",
+    "name": "现金流全指ETF华富",
+    "market": "sh",
+    "track": "现金流全指华富",
+    "data_days": 306,
+    "last_amount": 4951210,
+    "data_ok": true,
+    "sector": "现金流全指华富"
+  },
+  {
+    "code": "563780",
+    "name": "现金流全指ETF方正富邦",
+    "market": "sh",
+    "track": "现金流全指方正富邦",
+    "data_days": 304,
+    "last_amount": 17267196,
+    "data_ok": true,
+    "sector": "现金流全指方正富邦"
+  },
+  {
+    "code": "159223",
+    "name": "现金流ETF永赢",
+    "market": "sh",
+    "track": "现金流永赢",
+    "data_days": 268,
+    "last_amount": 10276527,
+    "data_ok": true,
+    "sector": "现金流永赢"
+  },
+  {
+    "code": "563880",
+    "name": "甘肃2504",
+    "market": "sh",
+    "track": "甘肃2504",
+    "data_days": 414,
+    "last_amount": 159000032,
+    "data_ok": true,
+    "sector": "甘肃2504"
+  },
+  {
+    "code": "159859",
+    "name": "生物医药ETF天弘",
+    "market": "sh",
+    "track": "生物医药",
+    "data_days": 1234,
+    "last_amount": 419715072,
+    "data_ok": true,
+    "sector": "生物医药"
+  },
+  {
+    "code": "512290",
+    "name": "生物医药ETF国泰",
+    "market": "sh",
+    "track": "生物医药",
+    "data_days": 1754,
+    "last_amount": 251633408,
+    "data_ok": true,
+    "sector": "生物医药"
+  },
+  {
+    "code": "159837",
+    "name": "生物科技ETF易方达",
+    "market": "sh",
+    "track": "生物科技",
+    "data_days": 1339,
+    "last_amount": 98138520,
+    "data_ok": true,
+    "sector": "生物科技"
+  },
+  {
+    "code": "516500",
+    "name": "生物科技ETF华夏",
+    "market": "sh",
+    "track": "生物科技",
+    "data_days": 1309,
+    "last_amount": 20228862,
+    "data_ok": true,
+    "sector": "生物科技"
+  },
+  {
+    "code": "516930",
+    "name": "生物科技ETF民生加银",
+    "market": "sh",
+    "track": "生物科技民生加银",
+    "data_days": 1204,
+    "last_amount": 2624715,
+    "data_ok": true,
+    "sector": "生物科技民生加银"
+  },
+  {
+    "code": "560300",
+    "name": "电信ETF汇添富",
+    "market": "sh",
+    "track": "电信",
+    "data_days": 639,
+    "last_amount": 1571734,
+    "data_ok": true,
+    "sector": "电信"
+  },
+  {
+    "code": "563010",
+    "name": "电信ETF易方达",
+    "market": "sh",
+    "track": "电信",
+    "data_days": 745,
+    "last_amount": 13513189,
+    "data_ok": true,
+    "sector": "电信"
+  },
+  {
+    "code": "159611",
+    "name": "电力ETF广发",
+    "market": "sh",
+    "track": "电力",
+    "data_days": 1110,
+    "last_amount": 640705984,
+    "data_ok": true,
+    "sector": "电力"
+  },
+  {
+    "code": "561560",
+    "name": "电力ETF华泰柏瑞",
+    "market": "sh",
+    "track": "电力",
+    "data_days": 1029,
+    "last_amount": 91689888,
+    "data_ok": true,
+    "sector": "电力"
+  },
+  {
+    "code": "159997",
+    "name": "电子ETF天弘",
+    "market": "sh",
+    "track": "电子",
+    "data_days": 1549,
+    "last_amount": 86775024,
+    "data_ok": true,
+    "sector": "电子"
+  },
+  {
+    "code": "515260",
+    "name": "电子ETF华宝",
+    "market": "sh",
+    "track": "电子",
+    "data_days": 1460,
+    "last_amount": 59624232,
+    "data_ok": true,
+    "sector": "电子"
+  },
+  {
+    "code": "515320",
+    "name": "电子50ETF华安",
+    "market": "sh",
+    "track": "电子50",
+    "data_days": 1352,
+    "last_amount": 34710824,
+    "data_ok": true,
+    "sector": "电子50"
+  },
+  {
+    "code": "159755",
+    "name": "电池ETF广发",
+    "market": "sh",
+    "track": "电池",
+    "data_days": 1243,
+    "last_amount": 397324192,
+    "data_ok": true,
+    "sector": "电池"
+  },
+  {
+    "code": "159796",
+    "name": "电池ETF汇添富",
+    "market": "sh",
+    "track": "电池",
+    "data_days": 1069,
+    "last_amount": 292988160,
+    "data_ok": true,
+    "sector": "电池"
+  },
+  {
+    "code": "159767",
+    "name": "电池龙头ETF兴银",
+    "market": "sh",
+    "track": "电池龙头兴银",
+    "data_days": 1201,
+    "last_amount": 3695711,
+    "data_ok": true,
+    "sector": "电池龙头兴银"
+  },
+  {
+    "code": "159320",
+    "name": "电网设备ETF广发",
+    "market": "sh",
+    "track": "电网设备",
+    "data_days": 392,
+    "last_amount": 248104240,
+    "data_ok": true,
+    "sector": "电网设备"
+  },
+  {
+    "code": "159326",
+    "name": "电网设备ETF华夏",
+    "market": "sh",
+    "track": "电网设备",
+    "data_days": 462,
+    "last_amount": 1016249856,
+    "data_ok": true,
+    "sector": "电网设备"
+  },
+  {
+    "code": "516670",
+    "name": "畜牧养殖ETF招商",
+    "market": "sh",
+    "track": "畜牧养殖",
+    "data_days": 1302,
+    "last_amount": 25321314,
+    "data_ok": true,
+    "sector": "畜牧养殖"
+  },
+  {
+    "code": "159643",
+    "name": "疫苗ETF国泰",
+    "market": "sh",
+    "track": "疫苗",
+    "data_days": 960,
+    "last_amount": 14374903,
+    "data_ok": true,
+    "sector": "疫苗"
+  },
+  {
+    "code": "562860",
+    "name": "疫苗ETF嘉实",
+    "market": "sh",
+    "track": "疫苗",
+    "data_days": 838,
+    "last_amount": 14177828,
+    "data_ok": true,
+    "sector": "疫苗"
+  },
+  {
+    "code": "159731",
+    "name": "石化ETF华夏",
+    "market": "sh",
+    "track": "石化",
+    "data_days": 1128,
+    "last_amount": 66984924,
+    "data_ok": true,
+    "sector": "石化"
+  },
+  {
+    "code": "159697",
+    "name": "石油ETF鹏华",
+    "market": "sh",
+    "track": "石油",
+    "data_days": 793,
+    "last_amount": 57245688,
+    "data_ok": true,
+    "sector": "石油"
+  },
+  {
+    "code": "561360",
+    "name": "石油ETF国泰",
+    "market": "sh",
+    "track": "石油",
+    "data_days": 673,
+    "last_amount": 64541584,
+    "data_ok": true,
+    "sector": "石油"
+  },
+  {
+    "code": "561330",
+    "name": "矿业ETF国泰",
+    "market": "sh",
+    "track": "矿业",
+    "data_days": 915,
+    "last_amount": 91956224,
+    "data_ok": true,
+    "sector": "矿业"
+  },
+  {
+    "code": "159790",
+    "name": "碳中和ETF华夏",
+    "market": "sh",
+    "track": "碳中和",
+    "data_days": 1212,
+    "last_amount": 67924552,
+    "data_ok": true,
+    "sector": "碳中和"
+  },
+  {
+    "code": "562990",
+    "name": "碳中和ETF易方达",
+    "market": "sh",
+    "track": "碳中和",
+    "data_days": 984,
+    "last_amount": 6652083,
+    "data_ok": true,
+    "sector": "碳中和"
+  },
+  {
+    "code": "159861",
+    "name": "碳中和50ETF国泰",
+    "market": "sh",
+    "track": "碳中和50",
+    "data_days": 1297,
+    "last_amount": 3105405,
+    "data_ok": true,
+    "sector": "碳中和50"
+  },
+  {
+    "code": "159640",
+    "name": "碳中和龙头ETF工银",
+    "market": "sh",
+    "track": "碳中和龙头",
+    "data_days": 982,
+    "last_amount": 2862457,
+    "data_ok": true,
+    "sector": "碳中和龙头"
+  },
+  {
+    "code": "588690",
+    "name": "科创增强ETF银华",
+    "market": "sh",
+    "track": "科创",
+    "data_days": 227,
+    "last_amount": 2834631,
+    "data_ok": true,
+    "sector": "科创"
+  },
+  {
+    "code": "588030",
+    "name": "科创100ETF博时",
+    "market": "sh",
+    "track": "科创100",
+    "data_days": 699,
+    "last_amount": 244940256,
+    "data_ok": true,
+    "sector": "科创100"
+  },
+  {
+    "code": "588220",
+    "name": "科创100ETF鹏华",
+    "market": "sh",
+    "track": "科创100",
+    "data_days": 699,
+    "last_amount": 524163712,
+    "data_ok": true,
+    "sector": "科创100"
+  },
+  {
+    "code": "588230",
+    "name": "科创200ETF华泰柏瑞",
+    "market": "sh",
+    "track": "科创200",
+    "data_days": 393,
+    "last_amount": 250385472,
+    "data_ok": true,
+    "sector": "科创200"
+  },
+  {
+    "code": "588240",
+    "name": "科创200ETF鹏华",
+    "market": "sh",
+    "track": "科创200",
+    "data_days": 355,
+    "last_amount": 70954304,
+    "data_ok": true,
+    "sector": "科创200"
+  },
+  {
+    "code": "588000",
+    "name": "科创50ETF华夏",
+    "market": "sh",
+    "track": "科创50",
+    "data_days": 1390,
+    "last_amount": 7740234752,
+    "data_ok": true,
+    "sector": "科创50"
+  },
+  {
+    "code": "588080",
+    "name": "科创50ETF易方达",
+    "market": "sh",
+    "track": "科创50",
+    "data_days": 1390,
+    "last_amount": 2075530496,
+    "data_ok": true,
+    "sector": "科创50"
+  },
+  {
+    "code": "588790",
+    "name": "科创AIETF博时",
+    "market": "sh",
+    "track": "科创AI",
+    "data_days": 382,
+    "last_amount": 221201632,
+    "data_ok": true,
+    "sector": "科创AI"
+  },
+  {
+    "code": "589090",
+    "name": "科创AIETF鹏华",
+    "market": "sh",
+    "track": "科创AI",
+    "data_days": 229,
+    "last_amount": 6379347,
+    "data_ok": true,
+    "sector": "科创AI"
+  },
+  {
+    "code": "588760",
+    "name": "科创人工智能ETF广发",
+    "market": "sh",
+    "track": "科创人工智能",
+    "data_days": 372,
+    "last_amount": 192062256,
+    "data_ok": true,
+    "sector": "科创人工智能"
+  },
+  {
+    "code": "589010",
+    "name": "科创人工智能ETF华夏",
+    "market": "sh",
+    "track": "科创人工智能",
+    "data_days": 325,
+    "last_amount": 131698472,
+    "data_ok": true,
+    "sector": "科创人工智能"
+  },
+  {
+    "code": "588910",
+    "name": "科创价值ETF建信",
+    "market": "sh",
+    "track": "科创价值",
+    "data_days": 327,
+    "last_amount": 11279007,
+    "data_ok": true,
+    "sector": "科创价值"
+  },
+  {
+    "code": "589550",
+    "name": "科创价值ETF华夏",
+    "market": "sh",
+    "track": "科创价值",
+    "data_days": 251,
+    "last_amount": 1703447,
+    "data_ok": true,
+    "sector": "科创价值"
+  },
+  {
+    "code": "588100",
+    "name": "科创信息ETF嘉实",
+    "market": "sh",
+    "track": "科创信息",
+    "data_days": 1020,
+    "last_amount": 16860560,
+    "data_ok": true,
+    "sector": "科创信息"
+  },
+  {
+    "code": "588770",
+    "name": "科创信息ETF摩根",
+    "market": "sh",
+    "track": "科创信息",
+    "data_days": 336,
+    "last_amount": 23761004,
+    "data_ok": true,
+    "sector": "科创信息"
+  },
+  {
+    "code": "159603",
+    "name": "科创创业ETF天弘",
+    "market": "sh",
+    "track": "科创创业",
+    "data_days": 1013,
+    "last_amount": 271521792,
+    "data_ok": true,
+    "sector": "科创创业"
+  },
+  {
+    "code": "159781",
+    "name": "科创创业ETF易方达",
+    "market": "sh",
+    "track": "科创创业",
+    "data_days": 1236,
+    "last_amount": 722246272,
+    "data_ok": true,
+    "sector": "科创创业"
+  },
+  {
+    "code": "159780",
+    "name": "科创创业50ETF南方",
+    "market": "sh",
+    "track": "科创创业50",
+    "data_days": 1236,
+    "last_amount": 173622768,
+    "data_ok": true,
+    "sector": "科创创业50"
+  },
+  {
+    "code": "159783",
+    "name": "科创创业50ETF华夏",
+    "market": "sh",
+    "track": "科创创业50",
+    "data_days": 1236,
+    "last_amount": 212604336,
+    "data_ok": true,
+    "sector": "科创创业50"
+  },
+  {
+    "code": "159140",
+    "name": "科创创业人工智能ETF易方达",
+    "market": "sh",
+    "track": "科创创业人工智能",
+    "data_days": 154,
+    "last_amount": 105464856,
+    "data_ok": true,
+    "sector": "科创创业人工智能"
+  },
+  {
+    "code": "159142",
+    "name": "科创创业人工智能ETF景顺",
+    "market": "sh",
+    "track": "科创创业人工智能",
+    "data_days": 158,
+    "last_amount": 504402688,
+    "data_ok": true,
+    "sector": "科创创业人工智能"
+  },
+  {
+    "code": "159141",
+    "name": "科创创业人工智能ETF永赢",
+    "market": "sh",
+    "track": "科创创业人工智能永赢",
+    "data_days": 159,
+    "last_amount": 666037504,
+    "data_ok": true,
+    "sector": "科创创业人工智能永赢"
+  },
+  {
+    "code": "588310",
+    "name": "科创创业ETF方正富邦",
+    "market": "sh",
+    "track": "科创创业方正富邦",
+    "data_days": 1135,
+    "last_amount": 1921416,
+    "data_ok": true,
+    "sector": "科创创业方正富邦"
+  },
+  {
+    "code": "589120",
+    "name": "科创创新药ETF汇添富",
+    "market": "sh",
+    "track": "科创创新药",
+    "data_days": 212,
+    "last_amount": 314163648,
+    "data_ok": true,
+    "sector": "科创创新药"
+  },
+  {
+    "code": "589720",
+    "name": "科创创新药ETF国泰",
+    "market": "sh",
+    "track": "科创创新药",
+    "data_days": 247,
+    "last_amount": 1312558080,
+    "data_ok": true,
+    "sector": "科创创新药"
+  },
+  {
+    "code": "588130",
+    "name": "科创医药ETF华夏",
+    "market": "sh",
+    "track": "科创医药",
+    "data_days": 293,
+    "last_amount": 114536976,
+    "data_ok": true,
+    "sector": "科创医药"
+  },
+  {
+    "code": "588700",
+    "name": "科创医药ETF嘉实",
+    "market": "sh",
+    "track": "科创医药",
+    "data_days": 626,
+    "last_amount": 140635856,
+    "data_ok": true,
+    "sector": "科创医药"
+  },
+  {
+    "code": "588170",
+    "name": "科创半导体ETF华夏",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 326,
+    "last_amount": 7625686528,
+    "data_ok": true,
+    "sector": "科创半导体"
+  },
+  {
+    "code": "588710",
+    "name": "科创半导体设备ETF华泰柏瑞",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 289,
+    "last_amount": 2626830848,
+    "data_ok": true,
+    "sector": "科创半导体设备"
+  },
+  {
+    "code": "589020",
+    "name": "科创半导体设备ETF鹏华",
+    "market": "sh",
+    "track": "半导体",
+    "data_days": 223,
+    "last_amount": 1252930048,
+    "data_ok": true,
+    "sector": "科创半导体设备"
+  },
+  {
+    "code": "588020",
+    "name": "科创成长ETF易方达",
+    "market": "sh",
+    "track": "科创成长",
+    "data_days": 710,
+    "last_amount": 350071616,
+    "data_ok": true,
+    "sector": "科创成长"
+  },
+  {
+    "code": "588110",
+    "name": "科创成长ETF广发",
+    "market": "sh",
+    "track": "科创成长",
+    "data_days": 710,
+    "last_amount": 55637484,
+    "data_ok": true,
+    "sector": "科创成长"
+  },
+  {
+    "code": "588010",
+    "name": "科创新材料ETF博时",
+    "market": "sh",
+    "track": "科创新材料",
+    "data_days": 919,
+    "last_amount": 298680672,
+    "data_ok": true,
+    "sector": "科创新材料"
+  },
+  {
+    "code": "588160",
+    "name": "科创新材料ETF南方",
+    "market": "sh",
+    "track": "科创新材料",
+    "data_days": 919,
+    "last_amount": 276825120,
+    "data_ok": true,
+    "sector": "科创新材料"
+  },
+  {
+    "code": "588830",
+    "name": "科创新能源ETF鹏华",
+    "market": "sh",
+    "track": "科创新能源",
+    "data_days": 483,
+    "last_amount": 159760944,
+    "data_ok": true,
+    "sector": "科创新能源"
+  },
+  {
+    "code": "589960",
+    "name": "科创新能源ETF易方达",
+    "market": "sh",
+    "track": "科创新能源",
+    "data_days": 211,
+    "last_amount": 30364004,
+    "data_ok": true,
+    "sector": "科创新能源"
+  },
+  {
+    "code": "588850",
+    "name": "科创机械ETF嘉实",
+    "market": "sh",
+    "track": "科创机械",
+    "data_days": 314,
+    "last_amount": 33318156,
+    "data_ok": true,
+    "sector": "科创机械"
+  },
+  {
+    "code": "588520",
+    "name": "科创增强ETF永赢",
+    "market": "sh",
+    "track": "科创永赢",
+    "data_days": 265,
+    "last_amount": 9412239,
+    "data_ok": true,
+    "sector": "科创永赢"
+  },
+  {
+    "code": "589000",
+    "name": "科创综指ETF华夏",
+    "market": "sh",
+    "track": "科创综指",
+    "data_days": 349,
+    "last_amount": 103980056,
+    "data_ok": true,
+    "sector": "科创综指"
+  },
+  {
+    "code": "589680",
+    "name": "科创综指ETF鹏华",
+    "market": "sh",
+    "track": "科创综指",
+    "data_days": 349,
+    "last_amount": 139580304,
+    "data_ok": true,
+    "sector": "科创综指"
+  },
+  {
+    "code": "589060",
+    "name": "科创综指ETF东财",
+    "market": "sh",
+    "track": "科创综指东财",
+    "data_days": 333,
+    "last_amount": 10994993,
+    "data_ok": true,
+    "sector": "科创综指东财"
+  },
+  {
+    "code": "589580",
+    "name": "科创综指ETF兴银",
+    "market": "sh",
+    "track": "科创综指兴银",
+    "data_days": 284,
+    "last_amount": 964150,
+    "data_ok": true,
+    "sector": "科创综指兴银"
+  },
+  {
+    "code": "588200",
+    "name": "科创芯片ETF嘉实",
+    "market": "sh",
+    "track": "芯片",
+    "data_days": 919,
+    "last_amount": 4303737856,
+    "data_ok": true,
+    "sector": "科创芯片"
+  },
+  {
+    "code": "588290",
+    "name": "科创芯片ETF华安",
+    "market": "sh",
+    "track": "芯片",
+    "data_days": 919,
+    "last_amount": 253923936,
+    "data_ok": true,
+    "sector": "科创芯片"
+  },
+  {
+    "code": "159807",
+    "name": "科技ETF易方达",
+    "market": "sh",
+    "track": "科技",
+    "data_days": 1543,
+    "last_amount": 42742412,
+    "data_ok": true,
+    "sector": "科技"
+  },
+  {
+    "code": "515000",
+    "name": "科技ETF华宝",
+    "market": "sh",
+    "track": "科技",
+    "data_days": 1691,
+    "last_amount": 167457984,
+    "data_ok": true,
+    "sector": "科技"
+  },
+  {
+    "code": "515580",
+    "name": "科技100ETF华泰柏瑞",
+    "market": "sh",
+    "track": "科技100",
+    "data_days": 1646,
+    "last_amount": 11547938,
+    "data_ok": true,
+    "sector": "科技100"
+  },
+  {
+    "code": "515750",
+    "name": "科技50ETF富国",
+    "market": "sh",
+    "track": "科技50",
+    "data_days": 1617,
+    "last_amount": 13523905,
+    "data_ok": true,
+    "sector": "科技50"
+  },
+  {
+    "code": "560990",
+    "name": "科技先锋ETF中金",
+    "market": "sh",
+    "track": "科技先锋中金",
+    "data_days": 1000,
+    "last_amount": 2252332,
+    "data_ok": true,
+    "sector": "科技先锋中金"
+  },
+  {
+    "code": "159723",
+    "name": "科技龙头ETF汇添富",
+    "market": "sh",
+    "track": "科技龙头",
+    "data_days": 1168,
+    "last_amount": 1122865,
+    "data_ok": true,
+    "sector": "科技龙头"
+  },
+  {
+    "code": "516050",
+    "name": "科技龙头ETF工银",
+    "market": "sh",
+    "track": "科技龙头",
+    "data_days": 1332,
+    "last_amount": 11038141,
+    "data_ok": true,
+    "sector": "科技龙头"
+  },
+  {
+    "code": "516150",
+    "name": "稀土ETF嘉实",
+    "market": "sh",
+    "track": "稀土",
+    "data_days": 1309,
+    "last_amount": 391396192,
+    "data_ok": true,
+    "sector": "稀土"
+  },
+  {
+    "code": "516780",
+    "name": "稀土ETF华泰柏瑞",
+    "market": "sh",
+    "track": "稀土",
+    "data_days": 1316,
+    "last_amount": 298346848,
+    "data_ok": true,
+    "sector": "稀土"
+  },
+  {
+    "code": "159608",
+    "name": "稀有金属ETF广发",
+    "market": "sh",
+    "track": "稀有金属",
+    "data_days": 1120,
+    "last_amount": 238876816,
+    "data_ok": true,
+    "sector": "稀有金属"
+  },
+  {
+    "code": "562800",
+    "name": "稀有金属ETF嘉实",
+    "market": "sh",
+    "track": "稀有金属",
+    "data_days": 1178,
+    "last_amount": 389658656,
+    "data_ok": true,
+    "sector": "稀有金属"
+  },
+  {
+    "code": "561800",
+    "name": "稀有金属ETF华富",
+    "market": "sh",
+    "track": "稀有金属华富",
+    "data_days": 1200,
+    "last_amount": 22906778,
+    "data_ok": true,
+    "sector": "稀有金属华富"
+  },
+  {
+    "code": "159587",
+    "name": "粮食ETF广发",
+    "market": "sh",
+    "track": "粮食",
+    "data_days": 473,
+    "last_amount": 13340228,
+    "data_ok": true,
+    "sector": "粮食"
+  },
+  {
+    "code": "159698",
+    "name": "粮食ETF鹏华",
+    "market": "sh",
+    "track": "粮食",
+    "data_days": 719,
+    "last_amount": 43323236,
+    "data_ok": true,
+    "sector": "粮食"
+  },
+  {
+    "code": "510880",
+    "name": "红利ETF华泰柏瑞",
+    "market": "sh",
+    "track": "红利",
+    "data_days": 4752,
+    "last_amount": 530327264,
+    "data_ok": true,
+    "sector": "红利"
+  },
+  {
+    "code": "515180",
+    "name": "红利ETF易方达",
+    "market": "sh",
+    "track": "红利",
+    "data_days": 1607,
+    "last_amount": 341707936,
+    "data_ok": true,
+    "sector": "红利"
+  },
+  {
+    "code": "563700",
+    "name": "红利价值ETF易方达",
+    "market": "sh",
+    "track": "红利价值",
+    "data_days": 312,
+    "last_amount": 6400966,
+    "data_ok": true,
+    "sector": "红利价值"
+  },
+  {
+    "code": "512890",
+    "name": "红利低波ETF华泰柏瑞",
+    "market": "sh",
+    "track": "红利低波",
+    "data_days": 1831,
+    "last_amount": 903455616,
+    "data_ok": true,
+    "sector": "红利低波"
+  },
+  {
+    "code": "563020",
+    "name": "红利低波ETF易方达",
+    "market": "sh",
+    "track": "红利低波",
+    "data_days": 641,
+    "last_amount": 325519872,
+    "data_ok": true,
+    "sector": "红利低波"
+  },
+  {
+    "code": "510720",
+    "name": "红利国企ETF国泰",
+    "market": "sh",
+    "track": "红利国企",
+    "data_days": 544,
+    "last_amount": 120581000,
+    "data_ok": true,
+    "sector": "红利国企"
+  },
+  {
+    "code": "530880",
+    "name": "红利国企ETF银河",
+    "market": "sh",
+    "track": "红利国企银河",
+    "data_days": 423,
+    "last_amount": 1276053,
+    "data_ok": true,
+    "sector": "红利国企银河"
+  },
+  {
+    "code": "159331",
+    "name": "红利港股ETF国泰",
+    "market": "sh",
+    "track": "红利港股",
+    "data_days": 489,
+    "last_amount": 7001512,
+    "data_ok": true,
+    "sector": "红利港股"
+  },
+  {
+    "code": "159708",
+    "name": "红利ETF西部利得",
+    "market": "sh",
+    "track": "红利西部利得",
+    "data_days": 1237,
+    "last_amount": 6380122,
+    "data_ok": true,
+    "sector": "红利西部利得"
+  },
+  {
+    "code": "159209",
+    "name": "红利质量ETF招商",
+    "market": "sh",
+    "track": "红利质量",
+    "data_days": 335,
+    "last_amount": 93538312,
+    "data_ok": true,
+    "sector": "红利质量"
+  },
+  {
+    "code": "159758",
+    "name": "红利质量ETF华夏",
+    "market": "sh",
+    "track": "红利质量",
+    "data_days": 1117,
+    "last_amount": 31354774,
+    "data_ok": true,
+    "sector": "红利质量"
+  },
+  {
+    "code": "159941",
+    "name": "纳指ETF广发",
+    "market": "sh",
+    "track": "纳指",
+    "data_days": 2691,
+    "last_amount": 918531520,
+    "data_ok": true,
+    "sector": "纳指"
+  },
+  {
+    "code": "513100",
+    "name": "纳指ETF国泰",
+    "market": "sh",
+    "track": "纳指",
+    "data_days": 3218,
+    "last_amount": 448594144,
+    "data_ok": true,
+    "sector": "纳指"
+  },
+  {
+    "code": "513390",
+    "name": "纳指100ETF博时",
+    "market": "sh",
+    "track": "纳指100",
+    "data_days": 791,
+    "last_amount": 120075360,
+    "data_ok": true,
+    "sector": "纳指100"
+  },
+  {
+    "code": "513290",
+    "name": "纳指生物科技ETF汇添富",
+    "market": "sh",
+    "track": "纳指生物科技",
+    "data_days": 955,
+    "last_amount": 171168624,
+    "data_ok": true,
+    "sector": "纳指生物科技"
+  },
+  {
+    "code": "159509",
+    "name": "纳指科技ETF景顺",
+    "market": "sh",
+    "track": "纳指科技",
+    "data_days": 727,
+    "last_amount": 759097024,
+    "data_ok": true,
+    "sector": "纳指科技"
+  },
+  {
+    "code": "159632",
+    "name": "纳斯达克ETF华安",
+    "market": "sh",
+    "track": "纳斯达克",
+    "data_days": 973,
+    "last_amount": 346172384,
+    "data_ok": true,
+    "sector": "纳斯达克"
+  },
+  {
+    "code": "513300",
+    "name": "纳斯达克ETF华夏",
+    "market": "sh",
+    "track": "纳斯达克",
+    "data_days": 1397,
+    "last_amount": 333948416,
+    "data_ok": true,
+    "sector": "纳斯达克"
+  },
+  {
+    "code": "159513",
+    "name": "纳斯达克100ETF大成",
+    "market": "sh",
+    "track": "纳斯达克100",
+    "data_days": 734,
+    "last_amount": 196677792,
+    "data_ok": true,
+    "sector": "纳斯达克100"
+  },
+  {
+    "code": "159659",
+    "name": "纳斯达克100ETF招商",
+    "market": "sh",
+    "track": "纳斯达克100",
+    "data_days": 797,
+    "last_amount": 205327376,
+    "data_ok": true,
+    "sector": "纳斯达克100"
+  },
+  {
+    "code": "159725",
+    "name": "线上消费ETF工银",
+    "market": "sh",
+    "track": "线上消费",
+    "data_days": 1237,
+    "last_amount": 18866654,
+    "data_ok": true,
+    "sector": "线上消费"
+  },
+  {
+    "code": "159793",
+    "name": "线上消费ETF平安",
+    "market": "sh",
+    "track": "线上消费",
+    "data_days": 1140,
+    "last_amount": 4196846,
+    "data_ok": true,
+    "sector": "线上消费"
+  },
+  {
+    "code": "562550",
+    "name": "绿电ETF华夏",
+    "market": "sh",
+    "track": "绿电",
+    "data_days": 817,
+    "last_amount": 117602168,
+    "data_ok": true,
+    "sector": "绿电"
+  },
+  {
+    "code": "159625",
+    "name": "绿色电力ETF嘉实",
+    "market": "sh",
+    "track": "绿色电力",
+    "data_days": 1037,
+    "last_amount": 64332660,
+    "data_ok": true,
+    "sector": "绿色电力"
+  },
+  {
+    "code": "562960",
+    "name": "绿色电力ETF易方达",
+    "market": "sh",
+    "track": "绿色电力",
+    "data_days": 806,
+    "last_amount": 48150240,
+    "data_ok": true,
+    "sector": "绿色电力"
+  },
+  {
+    "code": "562010",
+    "name": "绿色能源ETF华宝",
+    "market": "sh",
+    "track": "绿色能源",
+    "data_days": 871,
+    "last_amount": 548843,
+    "data_ok": true,
+    "sector": "绿色能源"
+  },
+  {
+    "code": "159577",
+    "name": "美国50ETF汇添富",
+    "market": "sh",
+    "track": "美国50",
+    "data_days": 597,
+    "last_amount": 59148620,
+    "data_ok": true,
+    "sector": "美国50"
+  },
+  {
+    "code": "513850",
+    "name": "美国50ETF易方达",
+    "market": "sh",
+    "track": "美国50",
+    "data_days": 660,
+    "last_amount": 55806616,
+    "data_ok": true,
+    "sector": "美国50"
+  },
+  {
+    "code": "159930",
+    "name": "能源ETF汇添富",
+    "market": "sh",
+    "track": "能源",
+    "data_days": 3129,
+    "last_amount": 143586896,
+    "data_ok": true,
+    "sector": "能源"
+  },
+  {
+    "code": "159945",
+    "name": "能源ETF广发",
+    "market": "sh",
+    "track": "能源",
+    "data_days": 2693,
+    "last_amount": 7697996,
+    "data_ok": true,
+    "sector": "能源"
+  },
+  {
+    "code": "159981",
+    "name": "能源化工ETF建信",
+    "market": "sh",
+    "track": "能源化工",
+    "data_days": 1588,
+    "last_amount": 301603488,
+    "data_ok": true,
+    "sector": "能源化工"
+  },
+  {
+    "code": "159201",
+    "name": "自由现金流ETF华夏",
+    "market": "sh",
+    "track": "自由现金流",
+    "data_days": 353,
+    "last_amount": 595752128,
+    "data_ok": true,
+    "sector": "自由现金流"
+  },
+  {
+    "code": "159222",
+    "name": "自由现金流ETF易方达",
+    "market": "sh",
+    "track": "自由现金流",
+    "data_days": 319,
+    "last_amount": 195658864,
+    "data_ok": true,
+    "sector": "自由现金流"
+  },
+  {
+    "code": "563580",
+    "name": "自由现金流800ETF万家",
+    "market": "sh",
+    "track": "自由现金流800",
+    "data_days": 252,
+    "last_amount": 6047869,
+    "data_ok": true,
+    "sector": "自由现金流800"
+  },
+  {
+    "code": "159267",
+    "name": "航天ETF华安",
+    "market": "sh",
+    "track": "航天",
+    "data_days": 247,
+    "last_amount": 106147104,
+    "data_ok": true,
+    "sector": "航天"
+  },
+  {
+    "code": "159257",
+    "name": "航空ETF汇添富",
+    "market": "sh",
+    "track": "航空",
+    "data_days": 251,
+    "last_amount": 11026733,
+    "data_ok": true,
+    "sector": "航空"
+  },
+  {
+    "code": "159392",
+    "name": "航空ETF富国",
+    "market": "sh",
+    "track": "航空",
+    "data_days": 303,
+    "last_amount": 8531432,
+    "data_ok": true,
+    "sector": "航空"
+  },
+  {
+    "code": "159227",
+    "name": "航空航天ETF华夏",
+    "market": "sh",
+    "track": "航空航天",
+    "data_days": 301,
+    "last_amount": 211498368,
+    "data_ok": true,
+    "sector": "航空航天"
+  },
+  {
+    "code": "159241",
+    "name": "航空航天ETF天弘",
+    "market": "sh",
+    "track": "航空航天",
+    "data_days": 292,
+    "last_amount": 109951880,
+    "data_ok": true,
+    "sector": "航空航天"
+  },
+  {
+    "code": "560710",
+    "name": "船舶ETF富国",
+    "market": "sh",
+    "track": "船舶",
+    "data_days": 120,
+    "last_amount": 57190164,
+    "data_ok": true,
+    "sector": "船舶"
+  },
+  {
+    "code": "159995",
+    "name": "芯片ETF华夏",
+    "market": "sh",
+    "track": "芯片",
+    "data_days": 1578,
+    "last_amount": 979263808,
+    "data_ok": true,
+    "sector": "芯片"
+  },
+  {
+    "code": "512760",
+    "name": "芯片ETF国泰",
+    "market": "sh",
+    "track": "芯片",
+    "data_days": 1738,
+    "last_amount": 521168864,
+    "data_ok": true,
+    "sector": "芯片"
+  },
+  {
+    "code": "562050",
+    "name": "药ETF华宝",
+    "market": "sh",
+    "track": "药",
+    "data_days": 278,
+    "last_amount": 17316832,
+    "data_ok": true,
+    "sector": "药"
+  },
+  {
+    "code": "159586",
+    "name": "计算机ETF南方",
+    "market": "sh",
+    "track": "计算机",
+    "data_days": 580,
+    "last_amount": 35390304,
+    "data_ok": true,
+    "sector": "计算机"
+  },
+  {
+    "code": "159998",
+    "name": "计算机ETF天弘",
+    "market": "sh",
+    "track": "计算机",
+    "data_days": 1534,
+    "last_amount": 78036056,
+    "data_ok": true,
+    "sector": "计算机"
+  },
+  {
+    "code": "159993",
+    "name": "证券ETF鹏华",
+    "market": "sh",
+    "track": "证券",
+    "data_days": 1579,
+    "last_amount": 322233696,
+    "data_ok": true,
+    "sector": "证券"
+  },
+  {
+    "code": "512880",
+    "name": "证券ETF国泰",
+    "market": "sh",
+    "track": "证券",
+    "data_days": 2428,
+    "last_amount": 1785007488,
+    "data_ok": true,
+    "sector": "证券"
+  },
+  {
+    "code": "159692",
+    "name": "证券ETF东财",
+    "market": "sh",
+    "track": "证券东财",
+    "data_days": 780,
+    "last_amount": 76279912,
+    "data_ok": true,
+    "sector": "证券东财"
+  },
+  {
+    "code": "512070",
+    "name": "证券保险ETF易方达",
+    "market": "sh",
+    "track": "证券保险",
+    "data_days": 2931,
+    "last_amount": 373203008,
+    "data_ok": true,
+    "sector": "证券保险"
+  },
+  {
+    "code": "515630",
+    "name": "证券保险ETF鹏华",
+    "market": "sh",
+    "track": "证券保险",
+    "data_days": 1539,
+    "last_amount": 36837144,
+    "data_ok": true,
+    "sector": "证券保险"
+  },
+  {
+    "code": "516980",
+    "name": "证券先锋ETF华富",
+    "market": "sh",
+    "track": "证券先锋华富",
+    "data_days": 1243,
+    "last_amount": 2438082,
+    "data_ok": true,
+    "sector": "证券先锋华富"
+  },
+  {
+    "code": "159848",
+    "name": "证券ETF国联安",
+    "market": "sh",
+    "track": "证券国联安",
+    "data_days": 1312,
+    "last_amount": 2699201,
+    "data_ok": true,
+    "sector": "证券国联安"
+  },
+  {
+    "code": "159985",
+    "name": "豆粕ETF华夏",
+    "market": "sh",
+    "track": "豆粕",
+    "data_days": 1618,
+    "last_amount": 328394400,
+    "data_ok": true,
+    "sector": "豆粕"
+  },
+  {
+    "code": "515910",
+    "name": "质量ETF中金",
+    "market": "sh",
+    "track": "质量中金",
+    "data_days": 1322,
+    "last_amount": 3965537,
+    "data_ok": true,
+    "sector": "质量中金"
+  },
+  {
+    "code": "563280",
+    "name": "贵州2425",
+    "market": "sh",
+    "track": "贵州2425",
+    "data_days": 564,
+    "last_amount": 88141,
+    "data_ok": true,
+    "sector": "贵州2425"
+  },
+  {
+    "code": "510410",
+    "name": "资源ETF博时",
+    "market": "sh",
+    "track": "资源",
+    "data_days": 3462,
+    "last_amount": 16647397,
+    "data_ok": true,
+    "sector": "资源"
+  },
+  {
+    "code": "510020",
+    "name": "超大盘ETF博时",
+    "market": "sh",
+    "track": "超大盘",
+    "data_days": 3980,
+    "last_amount": 5427089,
+    "data_ok": true,
+    "sector": "超大盘"
+  },
+  {
+    "code": "159852",
+    "name": "软件ETF嘉实",
+    "market": "sh",
+    "track": "软件",
+    "data_days": 1330,
+    "last_amount": 939102912,
+    "data_ok": true,
+    "sector": "软件"
+  },
+  {
+    "code": "515230",
+    "name": "软件ETF国泰",
+    "market": "sh",
+    "track": "软件",
+    "data_days": 1320,
+    "last_amount": 390098592,
+    "data_ok": true,
+    "sector": "软件"
+  },
+  {
+    "code": "563960",
+    "name": "辽宁2502",
+    "market": "sh",
+    "track": "辽宁2502",
+    "data_days": 141,
+    "last_amount": 2033186,
+    "data_ok": true,
+    "sector": "辽宁2502"
+  },
+  {
+    "code": "515050",
+    "name": "通信ETF华夏",
+    "market": "sh",
+    "track": "通信",
+    "data_days": 1654,
+    "last_amount": 1304808832,
+    "data_ok": true,
+    "sector": "通信"
+  },
+  {
+    "code": "515880",
+    "name": "通信ETF国泰",
+    "market": "sh",
+    "track": "通信",
+    "data_days": 1676,
+    "last_amount": 4214316800,
+    "data_ok": true,
+    "sector": "通信"
+  },
+  {
+    "code": "159230",
+    "name": "通用航空ETF华夏",
+    "market": "sh",
+    "track": "通用航空",
+    "data_days": 291,
+    "last_amount": 15378135,
+    "data_ok": true,
+    "sector": "通用航空"
+  },
+  {
+    "code": "563320",
+    "name": "通用航空ETF华泰柏瑞",
+    "market": "sh",
+    "track": "通用航空",
+    "data_days": 224,
+    "last_amount": 14398099,
+    "data_ok": true,
+    "sector": "通用航空"
+  },
+  {
+    "code": "159378",
+    "name": "通用航空ETF永赢",
+    "market": "sh",
+    "track": "通用航空永赢",
+    "data_days": 381,
+    "last_amount": 27963086,
+    "data_ok": true,
+    "sector": "通用航空永赢"
+  },
+  {
+    "code": "513400",
+    "name": "道琼斯ETF鹏华",
+    "market": "sh",
+    "track": "道琼斯",
+    "data_days": 606,
+    "last_amount": 246702384,
+    "data_ok": true,
+    "sector": "道琼斯"
+  },
+  {
+    "code": "512690",
+    "name": "酒ETF鹏华",
+    "market": "sh",
+    "track": "酒",
+    "data_days": 1764,
+    "last_amount": 922761088,
+    "data_ok": true,
+    "sector": "酒"
+  },
+  {
+    "code": "159834",
+    "name": "金ETF南方",
+    "market": "sh",
+    "track": "金",
+    "data_days": 1067,
+    "last_amount": 223005184,
+    "data_ok": true,
+    "sector": "金"
+  },
+  {
+    "code": "518600",
+    "name": "金ETF广发",
+    "market": "sh",
+    "track": "金",
+    "data_days": 1457,
+    "last_amount": 222509760,
+    "data_ok": true,
+    "sector": "金"
+  },
+  {
+    "code": "510230",
+    "name": "金融ETF国泰",
+    "market": "sh",
+    "track": "金融",
+    "data_days": 3697,
+    "last_amount": 102920424,
+    "data_ok": true,
+    "sector": "金融"
+  },
+  {
+    "code": "159940",
+    "name": "金融地产ETF广发",
+    "market": "sh",
+    "track": "金融地产",
+    "data_days": 2748,
+    "last_amount": 2315035,
+    "data_ok": true,
+    "sector": "金融地产"
+  },
+  {
+    "code": "510650",
+    "name": "金融地产ETF华夏",
+    "market": "sh",
+    "track": "金融地产",
+    "data_days": 3223,
+    "last_amount": 3424605,
+    "data_ok": true,
+    "sector": "金融地产"
+  },
+  {
+    "code": "159851",
+    "name": "金融科技ETF华宝",
+    "market": "sh",
+    "track": "金融科技",
+    "data_days": 1307,
+    "last_amount": 329165248,
+    "data_ok": true,
+    "sector": "金融科技"
+  },
+  {
+    "code": "516860",
+    "name": "金融科技ETF博时",
+    "market": "sh",
+    "track": "金融科技",
+    "data_days": 1173,
+    "last_amount": 64638176,
+    "data_ok": true,
+    "sector": "金融科技"
+  },
+  {
+    "code": "515210",
+    "name": "钢铁ETF国泰",
+    "market": "sh",
+    "track": "钢铁",
+    "data_days": 1563,
+    "last_amount": 121107616,
+    "data_ok": true,
+    "sector": "钢铁"
+  },
+  {
+    "code": "512800",
+    "name": "银行ETF华宝",
+    "market": "sh",
+    "track": "银行",
+    "data_days": 2188,
+    "last_amount": 1558960512,
+    "data_ok": true,
+    "sector": "银行"
+  },
+  {
+    "code": "516310",
+    "name": "银行ETF易方达",
+    "market": "sh",
+    "track": "银行",
+    "data_days": 1261,
+    "last_amount": 710304512,
+    "data_ok": true,
+    "sector": "银行"
+  },
+  {
+    "code": "517900",
+    "name": "银行AH优选ETF招商",
+    "market": "sh",
+    "track": "银行AH优选",
+    "data_days": 1060,
+    "last_amount": 51410448,
+    "data_ok": true,
+    "sector": "银行AH优选"
+  },
+  {
+    "code": "159840",
+    "name": "锂电池ETF工银",
+    "market": "sh",
+    "track": "锂电池",
+    "data_days": 1202,
+    "last_amount": 84142680,
+    "data_ok": true,
+    "sector": "锂电池"
+  },
+  {
+    "code": "512650",
+    "name": "长三角ETF汇添富",
+    "market": "sh",
+    "track": "长三角",
+    "data_days": 1647,
+    "last_amount": 4724006,
+    "data_ok": true,
+    "sector": "长三角"
+  },
+  {
+    "code": "159546",
+    "name": "集成电路ETF国泰",
+    "market": "sh",
+    "track": "集成电路",
+    "data_days": 680,
+    "last_amount": 55030832,
+    "data_ok": true,
+    "sector": "集成电路"
+  },
+  {
+    "code": "562820",
+    "name": "集成电路ETF嘉实",
+    "market": "sh",
+    "track": "集成电路",
+    "data_days": 558,
+    "last_amount": 68499288,
+    "data_ok": true,
+    "sector": "集成电路"
+  },
+  {
+    "code": "159151",
+    "name": "食品ETF华夏",
+    "market": "sh",
+    "track": "食品",
+    "data_days": 137,
+    "last_amount": 14278479,
+    "data_ok": true,
+    "sector": "食品"
+  },
+  {
+    "code": "560160",
+    "name": "食品ETF易方达",
+    "market": "sh",
+    "track": "食品",
+    "data_days": 128,
+    "last_amount": 4345207,
+    "data_ok": true,
+    "sector": "食品"
+  },
+  {
+    "code": "515170",
+    "name": "食品饮料ETF华夏",
+    "market": "sh",
+    "track": "食品饮料",
+    "data_days": 1349,
+    "last_amount": 111555440,
+    "data_ok": true,
+    "sector": "食品饮料"
+  },
+  {
+    "code": "515710",
+    "name": "食品饮料ETF华宝",
+    "market": "sh",
+    "track": "食品饮料",
+    "data_days": 1353,
+    "last_amount": 28031752,
+    "data_ok": true,
+    "sector": "食品饮料"
+  },
+  {
+    "code": "520560",
+    "name": "香港大盘30ETF华宝",
+    "market": "sh",
+    "track": "香港大盘30",
+    "data_days": 202,
+    "last_amount": 4128257,
+    "data_ok": true,
+    "sector": "香港大盘30"
+  },
+  {
+    "code": "159747",
+    "name": "香港科技ETF南方",
+    "market": "sh",
+    "track": "香港科技",
+    "data_days": 1229,
+    "last_amount": 36715340,
+    "data_ok": true,
+    "sector": "香港科技"
+  },
+  {
+    "code": "513560",
+    "name": "香港科技ETF兴银",
+    "market": "sh",
+    "track": "香港科技兴银",
+    "data_days": 847,
+    "last_amount": 37565636,
+    "data_ok": true,
+    "sector": "香港科技兴银"
+  },
+  {
+    "code": "513090",
+    "name": "香港证券ETF易方达",
+    "market": "sh",
+    "track": "香港证券",
+    "data_days": 1545,
+    "last_amount": 2998527744,
+    "data_ok": true,
+    "sector": "香港证券"
+  },
+  {
+    "code": "562910",
+    "name": "高端制造ETF易方达",
+    "market": "sh",
+    "track": "高端制造",
+    "data_days": 1109,
+    "last_amount": 13630389,
+    "data_ok": true,
+    "sector": "高端制造"
+  },
+  {
+    "code": "159638",
+    "name": "高端装备ETF嘉实",
+    "market": "sh",
+    "track": "高端装备",
+    "data_days": 966,
+    "last_amount": 51279364,
+    "data_ok": true,
+    "sector": "高端装备"
+  },
+  {
+    "code": "516320",
+    "name": "高端装备ETF华夏",
+    "market": "sh",
+    "track": "高端装备",
+    "data_days": 1254,
+    "last_amount": 6091416,
+    "data_ok": true,
+    "sector": "高端装备"
+  },
+  {
+    "code": "159207",
+    "name": "高股息ETF广发",
+    "market": "sh",
+    "track": "高股息",
+    "data_days": 325,
+    "last_amount": 116478904,
+    "data_ok": true,
+    "sector": "高股息"
+  },
+  {
+    "code": "563180",
+    "name": "高股息ETF银华",
+    "market": "sh",
+    "track": "高股息",
+    "data_days": 545,
+    "last_amount": 8524102,
+    "data_ok": true,
+    "sector": "高股息"
+  },
+  {
+    "code": "159934",
+    "name": "黄金ETF易方达",
+    "market": "sh",
+    "track": "黄金",
+    "data_days": 3075,
+    "last_amount": 1127802112,
+    "data_ok": true,
+    "sector": "黄金"
+  },
+  {
+    "code": "518880",
+    "name": "黄金ETF华安",
+    "market": "sh",
+    "track": "黄金",
+    "data_days": 3168,
+    "last_amount": 6154122240,
+    "data_ok": true,
+    "sector": "黄金"
+  },
+  {
+    "code": "159562",
+    "name": "黄金股ETF华夏",
+    "market": "sh",
+    "track": "黄金股",
+    "data_days": 615,
+    "last_amount": 300885792,
+    "data_ok": true,
+    "sector": "黄金股"
+  },
+  {
+    "code": "517400",
+    "name": "黄金股ETF国泰",
+    "market": "sh",
+    "track": "黄金股",
+    "data_days": 549,
+    "last_amount": 129034576,
+    "data_ok": true,
+    "sector": "黄金股"
+  },
+  {
+    "code": "517520",
+    "name": "黄金股ETF永赢",
+    "market": "sh",
+    "track": "黄金股永赢",
+    "data_days": 672,
+    "last_amount": 1545443072,
+    "data_ok": true,
+    "sector": "黄金股永赢"
+  },
+  {
+    "code": "563220",
+    "name": "龙江2422",
+    "market": "sh",
+    "track": "龙江2422",
+    "data_days": 443,
+    "last_amount": 188003056,
+    "data_ok": true,
+    "sector": "龙江2422"
+  }
+]

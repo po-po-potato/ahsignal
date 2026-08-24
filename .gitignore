@@ -1,0 +1,19 @@
+# Buildozer / python-for-android
+bin/
+.buildozer/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行数据（不应提交）
+data/
+AH策略_今日信号.html
+AH策略_今日信号.txt
+
+# 系统
+.DS_Store
+Thumbs.db
