@@ -133,7 +133,8 @@ def day_path(market, code):
 
 
 def setup_data():
-    """下载 AH 池 614 只 ETF 历史日线到项目内 data/vipdoc（首次部署跑一次）"""
+    """下载 AH 池 614 只 ETF 历史日线到项目内 data/vipdoc（首次部署跑一次）
+    数据源：腾讯 HTTPS（443，公司网络不拦）→ pytdx（回退）。"""
     pool = json.load(open(_res_path('etf_pool.json'), encoding='utf-8'))
     targets = [(code_market(e['code']), e['code']) for e in pool
                if not any(k in e['name'] for k in EXCLUDE_KW)]
@@ -141,10 +142,16 @@ def setup_data():
     t0 = time.time()
     done = 0
     for i, (mkt, code) in enumerate(targets):
+        rows = []
         try:
-            rows = du.fetch_tdx_daily(mkt, code, 300)
+            rows = du.tx_fetch_daily(mkt, code, 300)
         except Exception:
-            continue
+            pass
+        if not rows:
+            try:
+                rows = du.fetch_tdx_daily(mkt, code, 300)
+            except Exception:
+                continue
         if not rows:
             continue
         out_dir = os.path.join(_BASE_DIR, 'data', 'vipdoc', mkt, 'lday')
@@ -220,12 +227,26 @@ def load_data():
 
 
 def inject_quotes(ah_selected, etf_data_list):
-    """拉当天实时价并注入为最新一天。返回 (注入数量, 实时价dict, today)"""
+    """拉当天实时价并注入为最新一天。返回 (注入数量, 实时价dict, today)
+
+    数据源顺序：腾讯 HTTPS（443，公司网络不拦）→ pytdx（回退）。
+    """
     today = int(datetime.now().strftime('%Y%m%d'))
     if DRY:
         return 0, {}, today
     # 修正市场（etf_pool 历史 bug：全标 'sh'，深市基金必须用 sz 才拉得到）
-    quotes = du.fetch_quotes([(code_market(c), c) for _, c in ah_selected])
+    targets = [(code_market(c), c) for _, c in ah_selected]
+    quotes = {}
+    try:
+        quotes = du.tx_fetch_quotes(targets)
+    except Exception:
+        quotes = {}
+    if not quotes:
+        # 腾讯源失败 → 回退 pytdx
+        try:
+            quotes = du.fetch_quotes(targets)
+        except Exception:
+            quotes = {}
     injected = 0
     for etf in etf_data_list:
         code = etf['code']
@@ -247,10 +268,60 @@ def inject_quotes(ah_selected, etf_data_list):
 
 
 def update_daily(ah_selected):
-    """增量更新日线（复用连接，补到最新收盘）。只写「昨天及之前」的收盘日线，过滤当天盘中快照。
+    """增量更新日线（补到最新收盘）。只写「昨天及之前」的收盘日线，过滤当天盘中快照。
+    数据源：腾讯 HTTPS（443，公司网络不拦）→ pytdx（回退）。
     写入到 day_path 找到的现有数据文件。返回写入条数。"""
-    from pytdx.hq import TdxHq_API
     today = int(datetime.now().strftime('%Y%m%d'))
+    # 收盘判定：15:00 后视为已收盘，当天日线是完整收盘数据可落盘；
+    # 盘中(<15:00)拉到的当天日线是未收盘快照，绝不落盘（防脏数据）
+    is_market_closed = datetime.now().hour >= 15
+
+    def _write_rows(rows):
+        n = 0
+        for mkt, code in ah_selected:
+            path = day_path(mkt, code)
+            existing = set()
+            if path:
+                try:
+                    dates, *_ = read_day(path, code)
+                    existing = set(dates)
+                except Exception:
+                    pass
+            if path is None:
+                out_dir = os.path.join(_BASE_DIR, 'data', 'vipdoc', mkt, 'lday')
+                os.makedirs(out_dir, exist_ok=True)
+                path = os.path.join(out_dir, f'{mkt}{code}.day')
+            for row in rows.get(code, []):
+                d = row['date']
+                if d > today:
+                    continue
+                if d == today and not is_market_closed:
+                    continue  # 盘中：过滤当天未收盘快照
+                if d in existing:
+                    continue
+                du.write_day_record(path, code, d, row['open'], row['high'],
+                                    row['low'], row['close'], row['amount'])
+                existing.add(d)
+                n += 1
+        return n
+
+    # 1) 腾讯 HTTPS 源（每只拉 10 根即可覆盖增量；首装 300 天走 setup_data）
+    try:
+        rows_tx = {}
+        ok_tx = True
+        for mkt, code in ah_selected:
+            r = du.tx_fetch_daily(mkt, code, count=10)
+            if r:
+                rows_tx[code] = r
+        if rows_tx:
+            n = _write_rows(rows_tx)
+            if n > 0:
+                return n
+    except Exception:
+        pass
+
+    # 2) 回退 pytdx
+    from pytdx.hq import TdxHq_API
     api = None
     for host, port in [('180.153.18.170', 7709), ('123.125.108.14', 7709), ('180.153.39.51', 7709)]:
         try:
@@ -266,7 +337,6 @@ def update_daily(ah_selected):
     written = 0
     try:
         for mkt, code in ah_selected:
-            # 现有数据文件（day_path 优先 data/vipdoc 兜底 C:/zd_zsone）
             path = day_path(mkt, code)
             existing = set()
             if path:
@@ -276,7 +346,6 @@ def update_daily(ah_selected):
                 except Exception:
                     pass
             if path is None:
-                # 无现有文件 → 写到 data/vipdoc
                 out_dir = os.path.join(_BASE_DIR, 'data', 'vipdoc', mkt, 'lday')
                 os.makedirs(out_dir, exist_ok=True)
                 path = os.path.join(out_dir, f'{mkt}{code}.day')
@@ -288,8 +357,10 @@ def update_daily(ah_selected):
                 continue
             for bar in bars:
                 d = bar['year'] * 10000 + bar['month'] * 100 + bar['day']
-                if d >= today:      # 过滤今天：盘中拉到的当天日线是未收盘快照，绝不落盘
+                if d > today:
                     continue
+                if d == today and not is_market_closed:
+                    continue  # 盘中：过滤当天未收盘快照
                 if d in existing:
                     continue
                 du.write_day_record(path, code, d, bar['open'], bar['high'],

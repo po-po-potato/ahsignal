@@ -32,6 +32,106 @@ TDX_SERVERS = [
     ("180.153.39.51", 7709),
 ]
 
+# ============================================================
+#  腾讯 HTTPS 行情源（443 端口，公司网络不拦截）
+# ============================================================
+
+def tx_code(mkt: str, code: str) -> str:
+    """转腾讯代码格式：sh510720 / sz159102"""
+    return f"{mkt}{code}"
+
+
+def tx_fetch(url: str) -> str:
+    import urllib.request
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    return urllib.request.urlopen(req, timeout=10).read().decode('utf-8', 'ignore')
+
+
+def tx_fetch_quotes(targets: list[tuple[str, str]]) -> dict:
+    """腾讯实时行情（qt.gtimg.cn，HTTPS 443）。返回 {code: {price, last_close, amount}}
+    与 fetch_quotes 同格式。休市/无数据/失败返回空 dict（容错）。
+    """
+    if not targets:
+        return {}
+    # 分批拉取（单次拼接 60 只，避免 URL 过长）
+    result = {}
+    for i in range(0, len(targets), 60):
+        batch = targets[i:i + 60]
+        q = ','.join(tx_code(m, c) for m, c in batch)
+        try:
+            txt = tx_fetch(f'https://qt.gtimg.cn/q={q}')
+        except Exception:
+            continue
+        for line in txt.split(';'):
+            line = line.strip()
+            if '="' not in line:
+                continue
+            var, val = line.split('=', 1)
+            code = var.split('_')[-1].strip()
+            val = val.strip('"')
+            f = val.split('~')
+            if len(f) < 40:
+                continue
+            try:
+                price = float(f[3])
+                last_close = float(f[4])
+                amount = float(f[37]) * 10000 if f[37] else 0.0  # 成交额单位万元→元
+            except (ValueError, IndexError):
+                continue
+            if price <= 0:
+                continue
+            result[code] = {'price': price, 'last_close': last_close, 'amount': amount}
+    return result
+
+
+def tx_fetch_daily(mkt: str, code: str, count: int = 300) -> list[dict]:
+    """腾讯不复权日K（web.ifzq.gtimg.cn fqkline，末位空=不复权，HTTPS 443）。
+    返回 [{date:20260731, open, high, low, close, amount}]，与 fetch_tdx_daily 同格式。
+    注：腾讯 day 字段顺序为 [date, open, close, high, low, volume]；成交额走 newfqkline 端点。
+    """
+    tc = tx_code(mkt, code)
+    try:
+        # 1) 不复权 OHLCV
+        txt = tx_fetch(f'https://web.ifzq.gtimg.cn/appstock/app/fqkline/get?param={tc},day,,,{count},')
+        d = json.loads(txt)
+        k = d.get('data', {}).get(tc, {})
+        day_rows = k.get('day') or []
+        # 2) 成交额（newfqkline 端点含 amount 字段）
+        txt2 = tx_fetch(f'https://proxy.finance.qq.com/ifzqgtimg/appstock/app/newfqkline/get?param={tc},day,,,{count},qfq')
+        d2 = json.loads(txt2)
+        k2 = d2.get('data', {}).get(tc, {})
+        day2 = k2.get('day') or []
+        amt_map = {}
+        for row in day2:
+            if len(row) >= 9:
+                try:
+                    amt_map[row[0]] = float(row[8]) * 10000  # 成交额万元→元
+                except (ValueError, IndexError):
+                    pass
+    except Exception:
+        return []
+    if not day_rows:
+        return []
+    rows = []
+    for row in day_rows:
+        if len(row) < 6:
+            continue
+        try:
+            ds = row[0].replace('-', '')
+            if not ds.isdigit() or len(ds) != 8:
+                continue
+            rows.append({
+                'date': int(ds),
+                'open': float(row[1]),
+                'high': float(row[3]),
+                'low': float(row[4]),
+                'close': float(row[2]),
+                'amount': amt_map.get(row[0], 0.0),
+            })
+        except (ValueError, IndexError):
+            continue
+    return rows
+
 
 # ============================================================
 #  价格精度
